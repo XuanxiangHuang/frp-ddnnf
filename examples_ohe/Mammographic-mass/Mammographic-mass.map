@@ -1,0 +1,32 @@
+# a feature map file
+# dataset: Mammographic-mass
+NF: 13
+Type:
+discrete,discrete,discrete,discrete,discrete,discrete,discrete,discrete,discrete,discrete,discrete,discrete,discrete
+Map:
+RoundShape_1:=1:1
+RoundShape_1:=0:-1
+OvalShape_1:=1:2
+OvalShape_1:=0:-2
+LobularShape_1:=1:3
+LobularShape_1:=0:-3
+IrregularShape_1:=1:4
+IrregularShape_1:=0:-4
+CircumscribedMargin_1:=1:5
+CircumscribedMargin_1:=0:-5
+MicrolobulatedMargin_1:=1:6
+MicrolobulatedMargin_1:=0:-6
+ObscuredMargin_1:=1:7
+ObscuredMargin_1:=0:-7
+IllDefinedMargin_1:=1:8
+IllDefinedMargin_1:=0:-8
+SpiculatedMargin_1:=1:9
+SpiculatedMargin_1:=0:-9
+Age_lt_30_1:=1:10
+Age_lt_30_1:=0:-10
+Age_geq_45_1:=1:11
+Age_geq_45_1:=0:-11
+Age_geq_60_1:=1:12
+Age_geq_60_1:=0:-12
+Density_geq_2_1:=1:13
+Density_geq_2_1:=0:-13

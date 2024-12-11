@@ -1,0 +1,36 @@
+# a feature map file
+# dataset: monk1
+NF: 15
+Type:
+discrete,discrete,discrete,discrete,discrete,discrete,discrete,discrete,discrete,discrete,discrete,discrete,discrete,discrete,discrete
+Map:
+Head shape_0:=1:1
+Head shape_0:=0:-1
+Head shape_1:=1:2
+Head shape_1:=0:-2
+Head shape_2:=1:3
+Head shape_2:=0:-3
+Body shape_0:=1:4
+Body shape_0:=0:-4
+Body shape_1:=1:5
+Body shape_1:=0:-5
+Body shape_2:=1:6
+Body shape_2:=0:-6
+Is smiling_1:=1:7
+Is smiling_1:=0:-7
+Holding_0:=1:8
+Holding_0:=0:-8
+Holding_1:=1:9
+Holding_1:=0:-9
+Holding_2:=1:10
+Holding_2:=0:-10
+Jacket color_0:=1:11
+Jacket color_0:=0:-11
+Jacket color_1:=1:12
+Jacket color_1:=0:-12
+Jacket color_2:=1:13
+Jacket color_2:=0:-13
+Jacket color_3:=1:14
+Jacket color_3:=0:-14
+Has tie_1:=1:15
+Has tie_1:=0:-15
