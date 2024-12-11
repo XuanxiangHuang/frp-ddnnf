@@ -1,0 +1,3993 @@
+############ compas ############
+#0-th instance; prediction: False
+compas, 0-th inst file out of 100
+SMT encoding: query on feature 17 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.3 secs
+#1-th instance; prediction: True
+compas, 1-th inst file out of 100
+SMT encoding: query on feature 40 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#2-th instance; prediction: True
+compas, 2-th inst file out of 100
+SMT encoding: query on feature 36 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]
+Solving time: 7.4 secs
+Answer Yes
+AXp: [1, 36, 37, 39, 41, 43, 45]
+#3-th instance; prediction: True
+compas, 3-th inst file out of 100
+SMT encoding: query on feature 9 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#4-th instance; prediction: True
+compas, 4-th inst file out of 100
+SMT encoding: query on feature 1 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]
+Solving time: 7.6 secs
+Answer Yes
+AXp: [1, 36, 37, 39, 41, 43, 45]
+#5-th instance; prediction: False
+compas, 5-th inst file out of 100
+SMT encoding: query on feature 17 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.3 secs
+#6-th instance; prediction: False
+compas, 6-th inst file out of 100
+SMT encoding: query on feature 2 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [2, 6, 13, 18, 36, 38, 39, 40, 44, 45]
+Solving time: 42.1 secs
+Answer Yes
+AXp: [2, 13, 36, 38, 39, 40, 44, 45]
+#7-th instance; prediction: False
+compas, 7-th inst file out of 100
+SMT encoding: query on feature 18 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#8-th instance; prediction: True
+compas, 8-th inst file out of 100
+SMT encoding: query on feature 44 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]
+Solving time: 8.2 secs
+Answer Yes
+AXp: [36, 38, 39, 41, 44, 45]
+#9-th instance; prediction: True
+compas, 9-th inst file out of 100
+SMT encoding: query on feature 11 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#10-th instance; prediction: False
+compas, 10-th inst file out of 100
+SMT encoding: query on feature 44 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 40, 41, 42, 43, 44, 45]
+Solving time: 10.5 secs
+Answer Yes
+AXp: [2, 36, 40, 41, 43, 44]
+#11-th instance; prediction: False
+compas, 11-th inst file out of 100
+SMT encoding: query on feature 39 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [1, 2, 3, 6, 7, 9, 12, 13, 17, 18, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]
+Solving time: 7.2 secs
+Answer Yes
+AXp: [36, 37, 38, 39, 40, 44, 45]
+#12-th instance; prediction: False
+compas, 12-th inst file out of 100
+SMT encoding: query on feature 2 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.2 secs
+#13-th instance; prediction: True
+compas, 13-th inst file out of 100
+SMT encoding: query on feature 45 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]
+Solving time: 8.6 secs
+Answer Yes
+AXp: [0, 1, 36, 39, 43, 45]
+#14-th instance; prediction: True
+compas, 14-th inst file out of 100
+SMT encoding: query on feature 42 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#15-th instance; prediction: False
+compas, 15-th inst file out of 100
+SMT encoding: query on feature 17 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#16-th instance; prediction: True
+compas, 16-th inst file out of 100
+SMT encoding: query on feature 6 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 38, 39, 40, 41, 42, 43, 44]
+Solving time: 8.4 secs
+Answer Yes
+AXp: [1, 6, 12, 36, 38, 39, 41, 44]
+#17-th instance; prediction: False
+compas, 17-th inst file out of 100
+SMT encoding: query on feature 43 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#18-th instance; prediction: False
+compas, 18-th inst file out of 100
+SMT encoding: query on feature 6 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#19-th instance; prediction: False
+compas, 19-th inst file out of 100
+SMT encoding: query on feature 13 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 5, 6, 7, 9, 10, 12, 13, 17, 18, 36, 38, 39, 40, 41, 42, 43, 44, 45]
+Solving time: 7.5 secs
+Answer Yes
+AXp: [10, 13, 36, 38, 40, 43, 44]
+#20-th instance; prediction: True
+compas, 20-th inst file out of 100
+SMT encoding: query on feature 7 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 6, 7, 12, 36, 43, 45]
+Solving time: 270.1 secs
+Answer Yes
+AXp: [0, 1, 2, 3, 5, 6, 7, 12, 36, 45]
+#21-th instance; prediction: False
+compas, 21-th inst file out of 100
+SMT encoding: query on feature 12 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#22-th instance; prediction: False
+compas, 22-th inst file out of 100
+SMT encoding: query on feature 41 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 39, 40, 41, 42, 43, 44, 45]
+Solving time: 11.2 secs
+Answer Yes
+AXp: [0, 36, 41, 45]
+#23-th instance; prediction: True
+compas, 23-th inst file out of 100
+SMT encoding: query on feature 39 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 18, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]
+Solving time: 8.5 secs
+Answer Yes
+AXp: [0, 1, 36, 39, 44, 45]
+#24-th instance; prediction: False
+compas, 24-th inst file out of 100
+SMT encoding: query on feature 18 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#25-th instance; prediction: True
+compas, 25-th inst file out of 100
+SMT encoding: query on feature 18 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#26-th instance; prediction: False
+compas, 26-th inst file out of 100
+SMT encoding: query on feature 18 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#27-th instance; prediction: False
+compas, 27-th inst file out of 100
+SMT encoding: query on feature 39 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 6, 7, 9, 11, 12, 13, 17, 18, 37, 38, 39, 40, 41, 42, 43, 44]
+Solving time: 7.2 secs
+Answer Yes
+AXp: [0, 37, 38, 39, 44]
+#28-th instance; prediction: False
+compas, 28-th inst file out of 100
+SMT encoding: query on feature 38 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 5, 6, 7, 9, 10, 11, 12, 13, 18, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]
+Solving time: 10.3 secs
+Answer Yes
+AXp: [10, 13, 36, 38, 40, 43, 44]
+#29-th instance; prediction: False
+compas, 29-th inst file out of 100
+SMT encoding: query on feature 9 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#30-th instance; prediction: False
+compas, 30-th inst file out of 100
+SMT encoding: query on feature 44 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 5, 6, 7, 9, 10, 11, 13, 17, 18, 37, 38, 39, 40, 41, 42, 43, 44, 45]
+Solving time: 7.5 secs
+Answer Yes
+AXp: [0, 38, 39, 41, 44]
+#31-th instance; prediction: False
+compas, 31-th inst file out of 100
+SMT encoding: query on feature 13 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [1, 2, 3, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 38, 39, 40, 41, 42, 43, 45]
+Solving time: 7.3 secs
+Answer Yes
+AXp: [10, 13, 36, 38, 40, 41, 43]
+#32-th instance; prediction: True
+compas, 32-th inst file out of 100
+SMT encoding: query on feature 12 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 39, 40, 41, 42, 43, 44]
+Solving time: 8.5 secs
+Answer Yes
+AXp: [0, 1, 2, 5, 6, 12, 36, 39]
+#33-th instance; prediction: False
+compas, 33-th inst file out of 100
+SMT encoding: query on feature 2 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [2, 3, 5, 6, 7, 9, 11, 12, 13, 17, 18, 36, 38, 39, 40, 41, 42, 44, 45]
+Solving time: 10.3 secs
+Answer Yes
+AXp: [2, 13, 36, 38, 39, 40, 44, 45]
+#34-th instance; prediction: True
+compas, 34-th inst file out of 100
+SMT encoding: query on feature 40 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#35-th instance; prediction: False
+compas, 35-th inst file out of 100
+SMT encoding: query on feature 6 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#36-th instance; prediction: False
+compas, 36-th inst file out of 100
+SMT encoding: query on feature 3 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.7 secs
+#37-th instance; prediction: False
+compas, 37-th inst file out of 100
+SMT encoding: query on feature 38 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.3 secs
+#38-th instance; prediction: False
+compas, 38-th inst file out of 100
+SMT encoding: query on feature 2 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [2, 6, 13, 18, 36, 38, 39, 40, 44, 45]
+Solving time: 42.0 secs
+Answer Yes
+AXp: [2, 13, 36, 38, 39, 40, 44, 45]
+#39-th instance; prediction: False
+compas, 39-th inst file out of 100
+SMT encoding: query on feature 45 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [1, 2, 5, 6, 7, 9, 11, 12, 13, 17, 18, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]
+Solving time: 11.0 secs
+Answer Yes
+AXp: [2, 13, 36, 38, 39, 40, 44, 45]
+#40-th instance; prediction: True
+compas, 40-th inst file out of 100
+SMT encoding: query on feature 0 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 6, 7, 10, 11, 12, 13, 17, 18, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]
+Solving time: 7.7 secs
+Answer Yes
+AXp: [0, 1, 36, 39, 43, 45]
+#41-th instance; prediction: True
+compas, 41-th inst file out of 100
+SMT encoding: query on feature 6 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 39, 40, 41, 42, 43, 44, 45]
+Solving time: 9.9 secs
+Answer Yes
+AXp: [0, 1, 2, 3, 6, 9, 36, 39, 45]
+#42-th instance; prediction: False
+compas, 42-th inst file out of 100
+SMT encoding: query on feature 5 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#43-th instance; prediction: False
+compas, 43-th inst file out of 100
+SMT encoding: query on feature 12 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#44-th instance; prediction: False
+compas, 44-th inst file out of 100
+SMT encoding: query on feature 44 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 37, 39, 40, 41, 42, 43, 44, 45]
+Solving time: 6.8 secs
+Answer Yes
+AXp: [0, 41, 44, 45]
+#45-th instance; prediction: True
+compas, 45-th inst file out of 100
+SMT encoding: query on feature 38 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]
+Solving time: 8.8 secs
+Answer Yes
+AXp: [36, 38, 39, 41, 44, 45]
+#46-th instance; prediction: True
+compas, 46-th inst file out of 100
+SMT encoding: query on feature 40 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#47-th instance; prediction: False
+compas, 47-th inst file out of 100
+SMT encoding: query on feature 43 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 37, 39, 40, 41, 42, 43, 44, 45]
+Solving time: 10.6 secs
+Answer Yes
+AXp: [0, 1, 40, 41, 43, 44, 45]
+#48-th instance; prediction: True
+compas, 48-th inst file out of 100
+SMT encoding: query on feature 10 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#49-th instance; prediction: True
+compas, 49-th inst file out of 100
+SMT encoding: query on feature 12 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 38, 39, 40, 41, 42, 43, 44]
+Solving time: 8.1 secs
+Answer Yes
+AXp: [1, 6, 12, 36, 38, 39, 41, 44]
+#50-th instance; prediction: False
+compas, 50-th inst file out of 100
+SMT encoding: query on feature 45 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 3, 5, 6, 7, 9, 10, 11, 12, 17, 18, 38, 39, 40, 41, 42, 43, 44, 45]
+Solving time: 10.9 secs
+Answer Yes
+AXp: [0, 38, 39, 44, 45]
+#51-th instance; prediction: False
+compas, 51-th inst file out of 100
+SMT encoding: query on feature 6 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#52-th instance; prediction: False
+compas, 52-th inst file out of 100
+SMT encoding: query on feature 11 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#53-th instance; prediction: False
+compas, 53-th inst file out of 100
+SMT encoding: query on feature 18 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#54-th instance; prediction: False
+compas, 54-th inst file out of 100
+SMT encoding: query on feature 17 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#55-th instance; prediction: False
+compas, 55-th inst file out of 100
+SMT encoding: query on feature 41 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 6, 7, 9, 10, 11, 13, 17, 18, 37, 39, 40, 41, 43, 44, 45]
+Solving time: 10.8 secs
+Answer Yes
+AXp: [0, 1, 39, 40, 41, 43, 44, 45]
+#56-th instance; prediction: False
+compas, 56-th inst file out of 100
+SMT encoding: query on feature 40 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 5, 6, 7, 9, 11, 12, 13, 17, 18, 36, 38, 39, 40, 41, 42, 43, 44, 45]
+Solving time: 11.8 secs
+Answer Yes
+AXp: [13, 36, 38, 39, 40, 43, 44, 45]
+#57-th instance; prediction: False
+compas, 57-th inst file out of 100
+SMT encoding: query on feature 7 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#58-th instance; prediction: False
+compas, 58-th inst file out of 100
+SMT encoding: query on feature 41 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 6, 9, 10, 11, 12, 13, 17, 18, 36, 38, 39, 40, 41, 42, 44, 45]
+Solving time: 7.4 secs
+Answer Yes
+AXp: [0, 1, 2, 36, 38, 41, 45]
+#59-th instance; prediction: True
+compas, 59-th inst file out of 100
+SMT encoding: query on feature 42 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#60-th instance; prediction: False
+compas, 60-th inst file out of 100
+SMT encoding: query on feature 42 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#61-th instance; prediction: False
+compas, 61-th inst file out of 100
+SMT encoding: query on feature 42 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#62-th instance; prediction: False
+compas, 62-th inst file out of 100
+SMT encoding: query on feature 6 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#63-th instance; prediction: True
+compas, 63-th inst file out of 100
+SMT encoding: query on feature 5 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#64-th instance; prediction: False
+compas, 64-th inst file out of 100
+SMT encoding: query on feature 9 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#65-th instance; prediction: False
+compas, 65-th inst file out of 100
+SMT encoding: query on feature 5 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.3 secs
+#66-th instance; prediction: False
+compas, 66-th inst file out of 100
+SMT encoding: query on feature 11 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#67-th instance; prediction: False
+compas, 67-th inst file out of 100
+SMT encoding: query on feature 17 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#68-th instance; prediction: False
+compas, 68-th inst file out of 100
+SMT encoding: query on feature 11 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#69-th instance; prediction: True
+compas, 69-th inst file out of 100
+SMT encoding: query on feature 18 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#70-th instance; prediction: True
+compas, 70-th inst file out of 100
+SMT encoding: query on feature 42 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#71-th instance; prediction: False
+compas, 71-th inst file out of 100
+SMT encoding: query on feature 13 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#72-th instance; prediction: False
+compas, 72-th inst file out of 100
+SMT encoding: query on feature 37 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 38, 39, 41, 42, 43, 44, 45]
+Solving time: 11.1 secs
+Answer Yes
+AXp: [10, 13, 36, 37, 38, 43]
+#73-th instance; prediction: True
+compas, 73-th inst file out of 100
+SMT encoding: query on feature 1 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 38, 39, 40, 42, 43, 44, 45]
+Solving time: 7.8 secs
+Answer Yes
+AXp: [0, 1, 17, 36, 43, 44, 45]
+#74-th instance; prediction: True
+compas, 74-th inst file out of 100
+SMT encoding: query on feature 45 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]
+Solving time: 7.9 secs
+Answer Yes
+AXp: [0, 1, 36, 39, 43, 45]
+#75-th instance; prediction: True
+compas, 75-th inst file out of 100
+SMT encoding: query on feature 42 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.5 secs
+#76-th instance; prediction: False
+compas, 76-th inst file out of 100
+SMT encoding: query on feature 0 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 7, 9, 10, 11, 12, 17, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]
+Solving time: 5.5 secs
+Answer Yes
+AXp: [0, 37, 44, 45]
+#77-th instance; prediction: False
+compas, 77-th inst file out of 100
+SMT encoding: query on feature 36 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [1, 2, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 38, 39, 40, 41, 42, 44, 45]
+Solving time: 5.6 secs
+Answer Yes
+AXp: [2, 10, 13, 36, 38, 40, 41]
+#78-th instance; prediction: False
+compas, 78-th inst file out of 100
+SMT encoding: query on feature 1 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 38, 39, 41, 42, 43, 44, 45]
+Solving time: 10.4 secs
+Answer Yes
+AXp: [1, 2, 10, 13, 36, 38]
+#79-th instance; prediction: False
+compas, 79-th inst file out of 100
+SMT encoding: query on feature 38 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 38, 39, 41, 42, 43, 44, 45]
+Solving time: 6.6 secs
+Answer Yes
+AXp: [13, 36, 37, 38, 39, 43, 44, 45]
+#80-th instance; prediction: False
+compas, 80-th inst file out of 100
+SMT encoding: query on feature 37 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#81-th instance; prediction: False
+compas, 81-th inst file out of 100
+SMT encoding: query on feature 45 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#82-th instance; prediction: False
+compas, 82-th inst file out of 100
+SMT encoding: query on feature 45 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 6, 9, 11, 18, 36, 37, 38, 39, 40, 45]
+Solving time: 23.0 secs
+Answer Yes
+AXp: [0, 37, 38, 39, 45]
+#83-th instance; prediction: False
+compas, 83-th inst file out of 100
+SMT encoding: query on feature 36 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 18, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]
+Solving time: 5.8 secs
+Answer Yes
+AXp: [1, 36, 40, 41, 44]
+#84-th instance; prediction: False
+compas, 84-th inst file out of 100
+SMT encoding: query on feature 2 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#85-th instance; prediction: True
+compas, 85-th inst file out of 100
+SMT encoding: query on feature 5 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 38, 39, 40, 41, 42, 43, 44]
+Solving time: 7.7 secs
+Answer Yes
+AXp: [0, 1, 2, 5, 36, 38, 39]
+#86-th instance; prediction: False
+compas, 86-th inst file out of 100
+SMT encoding: query on feature 41 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 6, 13, 17, 38, 39, 40, 41, 42, 45]
+Solving time: 27.7 secs
+Answer Yes
+AXp: [0, 38, 39, 41, 45]
+#87-th instance; prediction: True
+compas, 87-th inst file out of 100
+SMT encoding: query on feature 13 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.9 secs
+#88-th instance; prediction: True
+compas, 88-th inst file out of 100
+SMT encoding: query on feature 36 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]
+Solving time: 7.7 secs
+Answer Yes
+AXp: [1, 2, 3, 36, 37, 38, 39, 40, 41, 44, 45]
+#89-th instance; prediction: False
+compas, 89-th inst file out of 100
+SMT encoding: query on feature 2 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 38, 39, 40, 41, 42, 44]
+Solving time: 10.5 secs
+Answer Yes
+AXp: [2, 10, 13, 36, 38, 40, 44]
+#90-th instance; prediction: True
+compas, 90-th inst file out of 100
+SMT encoding: query on feature 7 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 39, 40, 41, 42, 43, 44]
+Solving time: 8.9 secs
+Answer Yes
+AXp: [0, 1, 2, 5, 6, 7, 17, 36, 39]
+#91-th instance; prediction: False
+compas, 91-th inst file out of 100
+SMT encoding: query on feature 17 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#92-th instance; prediction: False
+compas, 92-th inst file out of 100
+SMT encoding: query on feature 10 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 38, 39, 40, 41, 43, 44]
+Solving time: 7.7 secs
+Answer Yes
+AXp: [2, 10, 13, 36, 38, 40, 44]
+#93-th instance; prediction: True
+compas, 93-th inst file out of 100
+SMT encoding: query on feature 17 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 38, 40, 41, 42, 44, 45]
+Solving time: 9.5 secs
+Answer Yes
+AXp: [0, 1, 2, 17, 36, 45]
+#94-th instance; prediction: False
+compas, 94-th inst file out of 100
+SMT encoding: query on feature 6 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#95-th instance; prediction: True
+compas, 95-th inst file out of 100
+SMT encoding: query on feature 3 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 38, 39, 40, 42, 43, 44]
+Solving time: 14.3 secs
+Answer Yes
+AXp: [0, 1, 2, 3, 17, 36, 38, 39]
+#96-th instance; prediction: False
+compas, 96-th inst file out of 100
+SMT encoding: query on feature 41 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 17, 18, 36, 37, 38, 39, 40, 41, 42, 43, 45]
+Solving time: 11.2 secs
+Answer Yes
+AXp: [0, 38, 39, 41, 45]
+#97-th instance; prediction: True
+compas, 97-th inst file out of 100
+SMT encoding: query on feature 44 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 3, 5, 6, 9, 11, 12, 17, 36, 43, 44, 45]
+Solving time: 74.1 secs
+Answer Yes
+AXp: [0, 1, 17, 36, 43, 44, 45]
+#98-th instance; prediction: True
+compas, 98-th inst file out of 100
+SMT encoding: query on feature 37 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#99-th instance; prediction: True
+compas, 99-th inst file out of 100
+SMT encoding: query on feature 44 out of 46 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17, 18, 36, 37, 38, 39, 40, 41, 42, 44, 45]
+Solving time: 9.3 secs
+Answer Yes
+AXp: [0, 1, 36, 39, 44, 45]
+compas & 100 & 24 & 300 & 50(50) & 646 & 671 & 15870.0 & 300.4 & 5.5 & 158.7
+
+############ german ############
+#0-th instance; prediction: True
+german, 0-th inst file out of 100
+SMT encoding: query on feature 1066 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.5 secs
+#1-th instance; prediction: True
+german, 1-th inst file out of 100
+SMT encoding: query on feature 981 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.3 secs
+#2-th instance; prediction: True
+german, 2-th inst file out of 100
+SMT encoding: query on feature 4 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.3 secs
+#3-th instance; prediction: False
+german, 3-th inst file out of 100
+SMT encoding: query on feature 33 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.5 secs
+#4-th instance; prediction: False
+german, 4-th inst file out of 100
+SMT encoding: query on feature 1056 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.5 secs
+#5-th instance; prediction: True
+german, 5-th inst file out of 100
+SMT encoding: query on feature 981 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.5 secs
+#6-th instance; prediction: True
+german, 6-th inst file out of 100
+SMT encoding: query on feature 986 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#7-th instance; prediction: True
+german, 7-th inst file out of 100
+SMT encoding: query on feature 1056 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1001, 1005, 1013, 1055, 1056, 1060, 1066, 1069]
+Solving time: 6.9 secs
+Answer Yes
+AXp: [3, 1005, 1056]
+#8-th instance; prediction: True
+german, 8-th inst file out of 100
+SMT encoding: query on feature 38 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.5 secs
+#9-th instance; prediction: True
+german, 9-th inst file out of 100
+SMT encoding: query on feature 987 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [2, 3, 12, 46, 977, 979, 986, 987, 1013, 1056, 1060, 1069]
+Solving time: 21.1 secs
+Answer Yes
+AXp: [2, 3, 977, 987, 1013, 1060]
+#10-th instance; prediction: True
+german, 10-th inst file out of 100
+SMT encoding: query on feature 1066 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [6, 12, 15, 33, 46, 487, 977, 985, 986, 987, 1001, 1005, 1013, 1055, 1060, 1066, 1069]
+Solving time: 266.2 secs
+Answer Yes
+AXp: [33, 46, 986, 1001, 1005, 1013, 1055, 1066, 1069]
+#11-th instance; prediction: True
+german, 11-th inst file out of 100
+SMT encoding: query on feature 986 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 6, 15, 33, 487, 977, 981, 986, 987, 995, 1005, 1013, 1056, 1060, 1069]
+Solving time: 117.0 secs
+Answer Yes
+AXp: [977, 986, 987, 1005, 1013, 1056, 1060, 1069]
+#12-th instance; prediction: True
+german, 12-th inst file out of 100
+SMT encoding: query on feature 3 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 6, 12, 15, 33, 38, 46, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1001, 1005, 1013, 1055, 1056, 1060, 1066]
+Solving time: 6.1 secs
+Answer Yes
+AXp: [3, 977, 1001, 1060]
+#13-th instance; prediction: True
+german, 13-th inst file out of 100
+SMT encoding: query on feature 1055 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 6, 12, 33, 38, 40, 986, 995, 1013, 1055, 1056, 1069]
+Solving time: 29.6 secs
+Answer Yes
+AXp: [2, 38, 40, 1013, 1055, 1056]
+#14-th instance; prediction: True
+german, 14-th inst file out of 100
+SMT encoding: query on feature 1060 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1001, 1005, 1013, 1055, 1056, 1060, 1066, 1069]
+Solving time: 7.0 secs
+Answer Yes
+AXp: [3, 977, 1001, 1060]
+#15-th instance; prediction: True
+german, 15-th inst file out of 100
+SMT encoding: query on feature 40 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [2, 3, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 979, 981, 985, 986, 987, 995, 1001, 1005, 1013, 1055, 1056, 1060, 1066, 1069]
+Solving time: 12.2 secs
+Answer Yes
+AXp: [40, 1001, 1005, 1056, 1060]
+#16-th instance; prediction: False
+german, 16-th inst file out of 100
+SMT encoding: query on feature 1060 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 986, 987, 995, 1001, 1005, 1013, 1055, 1056, 1060, 1066]
+Solving time: 9.6 secs
+Answer Yes
+AXp: [3, 12, 38, 977, 981, 1001, 1060]
+#17-th instance; prediction: False
+german, 17-th inst file out of 100
+SMT encoding: query on feature 981 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#18-th instance; prediction: False
+german, 18-th inst file out of 100
+SMT encoding: query on feature 1060 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 985, 986, 987, 1005, 1013, 1055, 1060, 1066, 1069]
+Solving time: 6.4 secs
+Answer Yes
+AXp: [2, 3, 12, 981, 986, 1060]
+#19-th instance; prediction: True
+german, 19-th inst file out of 100
+SMT encoding: query on feature 487 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#20-th instance; prediction: True
+german, 20-th inst file out of 100
+SMT encoding: query on feature 1060 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1001, 1005, 1013, 1055, 1056, 1060, 1066, 1069]
+Solving time: 12.3 secs
+Answer Yes
+AXp: [977, 1001, 1005, 1056, 1060]
+#21-th instance; prediction: True
+german, 21-th inst file out of 100
+SMT encoding: query on feature 3 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1001, 1005, 1055, 1056, 1060, 1066, 1069]
+Solving time: 6.2 secs
+Answer Yes
+AXp: [3, 1005, 1056]
+#22-th instance; prediction: True
+german, 22-th inst file out of 100
+SMT encoding: query on feature 1055 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 985, 986, 987, 1005, 1013, 1055, 1056, 1060, 1066, 1069]
+Solving time: 7.0 secs
+Answer Yes
+AXp: [2, 977, 1005, 1013, 1055, 1056, 1060]
+#23-th instance; prediction: True
+german, 23-th inst file out of 100
+SMT encoding: query on feature 981 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.3 secs
+#24-th instance; prediction: True
+german, 24-th inst file out of 100
+SMT encoding: query on feature 38 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1001, 1013, 1055, 1056, 1060, 1066, 1069]
+Solving time: 6.7 secs
+Answer Yes
+AXp: [3, 38, 1056]
+#25-th instance; prediction: True
+german, 25-th inst file out of 100
+SMT encoding: query on feature 995 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 985, 986, 987, 995, 1001, 1005, 1013, 1055, 1060, 1066, 1069]
+Solving time: 12.1 secs
+Answer Yes
+AXp: [33, 977, 995, 1001, 1005, 1060, 1066]
+#26-th instance; prediction: False
+german, 26-th inst file out of 100
+SMT encoding: query on feature 1069 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 3, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 985, 987, 995, 1001, 1005, 1013, 1055, 1056, 1060, 1066, 1069]
+Solving time: 5.5 secs
+Answer Yes
+AXp: [0, 3, 4, 987, 1001, 1055, 1069]
+#27-th instance; prediction: True
+german, 27-th inst file out of 100
+SMT encoding: query on feature 1069 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#28-th instance; prediction: False
+german, 28-th inst file out of 100
+SMT encoding: query on feature 987 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.5 secs
+#29-th instance; prediction: True
+german, 29-th inst file out of 100
+SMT encoding: query on feature 15 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#30-th instance; prediction: True
+german, 30-th inst file out of 100
+SMT encoding: query on feature 981 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1001, 1013, 1055, 1056, 1066, 1069]
+Solving time: 7.3 secs
+Answer Yes
+AXp: [38, 40, 981, 1001, 1056]
+#31-th instance; prediction: True
+german, 31-th inst file out of 100
+SMT encoding: query on feature 46 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.5 secs
+#32-th instance; prediction: True
+german, 32-th inst file out of 100
+SMT encoding: query on feature 979 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#33-th instance; prediction: True
+german, 33-th inst file out of 100
+SMT encoding: query on feature 986 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 3, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1005, 1013, 1055, 1056, 1060, 1066, 1069]
+Solving time: 12.4 secs
+Answer Yes
+AXp: [977, 986, 1005, 1013, 1055, 1056, 1060, 1069]
+#34-th instance; prediction: True
+german, 34-th inst file out of 100
+SMT encoding: query on feature 0 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#35-th instance; prediction: True
+german, 35-th inst file out of 100
+SMT encoding: query on feature 1055 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [2, 6, 12, 15, 38, 40, 51, 977, 979, 985, 1005, 1013, 1055, 1056, 1060, 1069]
+Solving time: 36.7 secs
+Answer Yes
+AXp: [2, 40, 977, 1005, 1013, 1055, 1056]
+#36-th instance; prediction: True
+german, 36-th inst file out of 100
+SMT encoding: query on feature 0 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.5 secs
+#37-th instance; prediction: True
+german, 37-th inst file out of 100
+SMT encoding: query on feature 12 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#38-th instance; prediction: False
+german, 38-th inst file out of 100
+SMT encoding: query on feature 995 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.5 secs
+#39-th instance; prediction: True
+german, 39-th inst file out of 100
+SMT encoding: query on feature 3 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1001, 1005, 1013, 1055, 1056, 1060, 1066, 1069]
+Solving time: 6.0 secs
+Answer Yes
+AXp: [3, 977, 1001, 1060]
+#40-th instance; prediction: False
+german, 40-th inst file out of 100
+SMT encoding: query on feature 1005 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.5 secs
+#41-th instance; prediction: False
+german, 41-th inst file out of 100
+SMT encoding: query on feature 986 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#42-th instance; prediction: False
+german, 42-th inst file out of 100
+SMT encoding: query on feature 0 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#43-th instance; prediction: True
+german, 43-th inst file out of 100
+SMT encoding: query on feature 3 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 979, 981, 985, 986, 987, 995, 1001, 1005, 1013, 1055, 1056, 1060, 1066, 1069]
+Solving time: 6.2 secs
+Answer Yes
+AXp: [3, 1005, 1056]
+#44-th instance; prediction: True
+german, 44-th inst file out of 100
+SMT encoding: query on feature 12 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#45-th instance; prediction: True
+german, 45-th inst file out of 100
+SMT encoding: query on feature 995 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1001, 1005, 1013, 1055, 1060, 1066, 1069]
+Solving time: 6.9 secs
+Answer Yes
+AXp: [46, 977, 995, 1001, 1005, 1060, 1069]
+#46-th instance; prediction: False
+german, 46-th inst file out of 100
+SMT encoding: query on feature 40 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.3 secs
+#47-th instance; prediction: True
+german, 47-th inst file out of 100
+SMT encoding: query on feature 3 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 6, 12, 15, 33, 40, 46, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1001, 1013, 1055, 1056, 1060, 1066, 1069]
+Solving time: 10.7 secs
+Answer Yes
+AXp: [3, 977, 1001, 1060]
+#48-th instance; prediction: True
+german, 48-th inst file out of 100
+SMT encoding: query on feature 12 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#49-th instance; prediction: False
+german, 49-th inst file out of 100
+SMT encoding: query on feature 987 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 986, 987, 995, 1001, 1005, 1013, 1055, 1066, 1069]
+Solving time: 5.6 secs
+Answer Yes
+AXp: [3, 38, 51, 487, 987, 995, 1005, 1066]
+#50-th instance; prediction: True
+german, 50-th inst file out of 100
+SMT encoding: query on feature 1001 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 985, 986, 995, 1001, 1005, 1055, 1056, 1060, 1066, 1069]
+Solving time: 7.1 secs
+Answer Yes
+AXp: [977, 1001, 1005, 1056, 1060]
+#51-th instance; prediction: False
+german, 51-th inst file out of 100
+SMT encoding: query on feature 1056 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 4, 6, 12, 15, 33, 38, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1001, 1005, 1013, 1055, 1056, 1060, 1066, 1069]
+Solving time: 5.8 secs
+Answer Yes
+AXp: [0, 38, 51, 487, 986, 987, 1001, 1005, 1055, 1056]
+#52-th instance; prediction: True
+german, 52-th inst file out of 100
+SMT encoding: query on feature 1060 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1001, 1005, 1013, 1055, 1056, 1060, 1066, 1069]
+Solving time: 7.0 secs
+Answer Yes
+AXp: [977, 1001, 1005, 1056, 1060]
+#53-th instance; prediction: True
+german, 53-th inst file out of 100
+SMT encoding: query on feature 51 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.3 secs
+#54-th instance; prediction: True
+german, 54-th inst file out of 100
+SMT encoding: query on feature 1005 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1001, 1005, 1013, 1055, 1056, 1060, 1066, 1069]
+Solving time: 6.9 secs
+Answer Yes
+AXp: [3, 1005, 1056]
+#55-th instance; prediction: True
+german, 55-th inst file out of 100
+SMT encoding: query on feature 40 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1005, 1013, 1055, 1056, 1060, 1066, 1069]
+Solving time: 11.3 secs
+Answer Yes
+AXp: [2, 40, 1005, 1013, 1055, 1056, 1060]
+#56-th instance; prediction: True
+german, 56-th inst file out of 100
+SMT encoding: query on feature 2 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1001, 1005, 1013, 1055, 1056, 1066, 1069]
+Solving time: 7.0 secs
+Answer Yes
+AXp: [2, 3, 38, 977, 1001]
+#57-th instance; prediction: True
+german, 57-th inst file out of 100
+SMT encoding: query on feature 977 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 4, 6, 12, 15, 33, 38, 46, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1001, 1005, 1013, 1055, 1056, 1060, 1066, 1069]
+Solving time: 9.1 secs
+Answer Yes
+AXp: [46, 977, 995, 1001, 1056, 1060, 1069]
+#58-th instance; prediction: False
+german, 58-th inst file out of 100
+SMT encoding: query on feature 1005 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.5 secs
+#59-th instance; prediction: True
+german, 59-th inst file out of 100
+SMT encoding: query on feature 1013 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#60-th instance; prediction: True
+german, 60-th inst file out of 100
+SMT encoding: query on feature 0 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#61-th instance; prediction: True
+german, 61-th inst file out of 100
+SMT encoding: query on feature 3 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1005, 1013, 1055, 1056, 1060, 1066, 1069]
+Solving time: 6.1 secs
+Answer Yes
+AXp: [3, 1005, 1056]
+#62-th instance; prediction: False
+german, 62-th inst file out of 100
+SMT encoding: query on feature 979 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.5 secs
+#63-th instance; prediction: False
+german, 63-th inst file out of 100
+SMT encoding: query on feature 6 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.6 secs
+#64-th instance; prediction: True
+german, 64-th inst file out of 100
+SMT encoding: query on feature 15 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#65-th instance; prediction: True
+german, 65-th inst file out of 100
+SMT encoding: query on feature 1069 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.5 secs
+#66-th instance; prediction: True
+german, 66-th inst file out of 100
+SMT encoding: query on feature 1055 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.3 secs
+#67-th instance; prediction: True
+german, 67-th inst file out of 100
+SMT encoding: query on feature 3 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 6, 12, 15, 33, 38, 40, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1001, 1005, 1013, 1055, 1056, 1060, 1066, 1069]
+Solving time: 6.3 secs
+Answer Yes
+AXp: [0, 2, 3, 977, 1013]
+#68-th instance; prediction: True
+german, 68-th inst file out of 100
+SMT encoding: query on feature 1066 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#69-th instance; prediction: True
+german, 69-th inst file out of 100
+SMT encoding: query on feature 1001 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 3, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 985, 986, 987, 995, 1001, 1005, 1013, 1055, 1056, 1060, 1066, 1069]
+Solving time: 7.0 secs
+Answer Yes
+AXp: [3, 977, 1001, 1060]
+#70-th instance; prediction: False
+german, 70-th inst file out of 100
+SMT encoding: query on feature 977 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1001, 1005, 1055, 1056, 1060, 1066, 1069]
+Solving time: 8.8 secs
+Answer Yes
+AXp: [2, 3, 38, 977, 1001, 1060]
+#71-th instance; prediction: False
+german, 71-th inst file out of 100
+SMT encoding: query on feature 1066 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.6 secs
+#72-th instance; prediction: True
+german, 72-th inst file out of 100
+SMT encoding: query on feature 0 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#73-th instance; prediction: True
+german, 73-th inst file out of 100
+SMT encoding: query on feature 487 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.8 secs
+#74-th instance; prediction: True
+german, 74-th inst file out of 100
+SMT encoding: query on feature 51 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.3 secs
+#75-th instance; prediction: True
+german, 75-th inst file out of 100
+SMT encoding: query on feature 38 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1005, 1013, 1055, 1056, 1066, 1069]
+Solving time: 7.0 secs
+Answer Yes
+AXp: [2, 38, 977, 1013, 1055, 1056]
+#76-th instance; prediction: True
+german, 76-th inst file out of 100
+SMT encoding: query on feature 1066 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.3 secs
+#77-th instance; prediction: True
+german, 77-th inst file out of 100
+SMT encoding: query on feature 1066 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#78-th instance; prediction: True
+german, 78-th inst file out of 100
+SMT encoding: query on feature 977 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 4, 6, 12, 15, 33, 40, 46, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1001, 1005, 1013, 1055, 1056, 1060, 1066, 1069]
+Solving time: 11.4 secs
+Answer Yes
+AXp: [40, 977, 981, 1001, 1005, 1056]
+#79-th instance; prediction: True
+german, 79-th inst file out of 100
+SMT encoding: query on feature 40 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#80-th instance; prediction: True
+german, 80-th inst file out of 100
+SMT encoding: query on feature 4 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#81-th instance; prediction: False
+german, 81-th inst file out of 100
+SMT encoding: query on feature 985 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.8 secs
+#82-th instance; prediction: True
+german, 82-th inst file out of 100
+SMT encoding: query on feature 51 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 301.6 secs
+#83-th instance; prediction: True
+german, 83-th inst file out of 100
+SMT encoding: query on feature 1055 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 4, 6, 15, 38, 40, 51, 487, 979, 981, 985, 986, 1005, 1013, 1055, 1056, 1060]
+Solving time: 47.8 secs
+Answer Yes
+AXp: [2, 40, 1005, 1013, 1055, 1056, 1060]
+#84-th instance; prediction: False
+german, 84-th inst file out of 100
+SMT encoding: query on feature 0 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.7 secs
+#85-th instance; prediction: True
+german, 85-th inst file out of 100
+SMT encoding: query on feature 995 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.9 secs
+#86-th instance; prediction: True
+german, 86-th inst file out of 100
+SMT encoding: query on feature 4 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.8 secs
+#87-th instance; prediction: True
+german, 87-th inst file out of 100
+SMT encoding: query on feature 995 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.3 secs
+#88-th instance; prediction: False
+german, 88-th inst file out of 100
+SMT encoding: query on feature 33 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 298.9 secs
+#89-th instance; prediction: True
+german, 89-th inst file out of 100
+SMT encoding: query on feature 33 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.7 secs
+#90-th instance; prediction: True
+german, 90-th inst file out of 100
+SMT encoding: query on feature 1066 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#91-th instance; prediction: True
+german, 91-th inst file out of 100
+SMT encoding: query on feature 33 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#92-th instance; prediction: True
+german, 92-th inst file out of 100
+SMT encoding: query on feature 4 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#93-th instance; prediction: True
+german, 93-th inst file out of 100
+SMT encoding: query on feature 38 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#94-th instance; prediction: False
+german, 94-th inst file out of 100
+SMT encoding: query on feature 986 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 3, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1005, 1013, 1055, 1056, 1060, 1066, 1069]
+Solving time: 7.5 secs
+Answer Yes
+AXp: [0, 3, 12, 38, 977, 981, 986, 987, 1055, 1060]
+#95-th instance; prediction: True
+german, 95-th inst file out of 100
+SMT encoding: query on feature 38 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#96-th instance; prediction: True
+german, 96-th inst file out of 100
+SMT encoding: query on feature 979 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#97-th instance; prediction: True
+german, 97-th inst file out of 100
+SMT encoding: query on feature 1001 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 6, 12, 15, 33, 38, 40, 46, 51, 487, 977, 979, 981, 985, 986, 987, 995, 1001, 1005, 1056, 1060, 1066, 1069]
+Solving time: 8.9 secs
+Answer Yes
+AXp: [977, 1001, 1005, 1056, 1060]
+#98-th instance; prediction: False
+german, 98-th inst file out of 100
+SMT encoding: query on feature 4 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#99-th instance; prediction: True
+german, 99-th inst file out of 100
+SMT encoding: query on feature 0 out of 1073 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.3 secs
+german & 100 & 28 & 174 & 40(60) & 1421 & 2469 & 18793.1 & 300.7 & 5.5 & 187.9
+
+############ lending ############
+#0-th instance; prediction: True
+lending, 0-th inst file out of 100
+SMT encoding: query on feature 11 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#1-th instance; prediction: False
+lending, 1-th inst file out of 100
+SMT encoding: query on feature 23 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 31, 33]
+Solving time: 17.8 secs
+Answer Yes
+AXp: [3, 6, 14, 19, 20, 22, 23]
+#2-th instance; prediction: False
+lending, 2-th inst file out of 100
+SMT encoding: query on feature 21 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.7 secs
+#3-th instance; prediction: False
+lending, 3-th inst file out of 100
+SMT encoding: query on feature 16 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [2, 4, 6, 9, 11, 16, 22, 23, 25]
+Solving time: 37.3 secs
+Answer Yes
+AXp: [2, 6, 11, 16, 22, 25]
+#4-th instance; prediction: False
+lending, 4-th inst file out of 100
+SMT encoding: query on feature 14 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.6 secs
+#5-th instance; prediction: False
+lending, 5-th inst file out of 100
+SMT encoding: query on feature 9 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#6-th instance; prediction: False
+lending, 6-th inst file out of 100
+SMT encoding: query on feature 23 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.6 secs
+#7-th instance; prediction: True
+lending, 7-th inst file out of 100
+SMT encoding: query on feature 15 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 25, 31, 32, 33]
+Solving time: 13.5 secs
+Answer Yes
+AXp: [3, 11, 14, 15, 16, 19, 22, 25, 31, 32]
+#8-th instance; prediction: False
+lending, 8-th inst file out of 100
+SMT encoding: query on feature 31 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 25, 31, 32, 33]
+Solving time: 18.2 secs
+Answer Yes
+AXp: [4, 11, 19, 25, 31]
+#9-th instance; prediction: False
+lending, 9-th inst file out of 100
+SMT encoding: query on feature 13 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [1, 2, 3, 6, 8, 13, 17, 25]
+Solving time: 34.3 secs
+Answer Yes
+AXp: [3, 8, 13, 25]
+#10-th instance; prediction: False
+lending, 10-th inst file out of 100
+SMT encoding: query on feature 14 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.6 secs
+#11-th instance; prediction: False
+lending, 11-th inst file out of 100
+SMT encoding: query on feature 23 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#12-th instance; prediction: False
+lending, 12-th inst file out of 100
+SMT encoding: query on feature 23 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#13-th instance; prediction: False
+lending, 13-th inst file out of 100
+SMT encoding: query on feature 15 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#14-th instance; prediction: False
+lending, 14-th inst file out of 100
+SMT encoding: query on feature 4 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 21, 22, 23, 25, 31, 32, 33]
+Solving time: 12.5 secs
+Answer Yes
+AXp: [0, 4, 6, 13, 14, 25, 31, 32]
+#15-th instance; prediction: True
+lending, 15-th inst file out of 100
+SMT encoding: query on feature 4 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 31, 32, 33]
+Solving time: 12.8 secs
+Answer Yes
+AXp: [4, 6, 9, 14, 21, 22, 25, 31]
+#16-th instance; prediction: False
+lending, 16-th inst file out of 100
+SMT encoding: query on feature 16 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 3, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 31, 32]
+Solving time: 17.2 secs
+Answer Yes
+AXp: [11, 16, 19, 25, 31]
+#17-th instance; prediction: False
+lending, 17-th inst file out of 100
+SMT encoding: query on feature 15 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#18-th instance; prediction: False
+lending, 18-th inst file out of 100
+SMT encoding: query on feature 4 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#19-th instance; prediction: True
+lending, 19-th inst file out of 100
+SMT encoding: query on feature 13 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#20-th instance; prediction: False
+lending, 20-th inst file out of 100
+SMT encoding: query on feature 22 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#21-th instance; prediction: True
+lending, 21-th inst file out of 100
+SMT encoding: query on feature 21 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 25, 31, 32, 33]
+Solving time: 12.9 secs
+Answer Yes
+AXp: [6, 8, 10, 14, 20, 21, 22, 25, 31]
+#22-th instance; prediction: True
+lending, 22-th inst file out of 100
+SMT encoding: query on feature 4 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [1, 4, 6, 7, 8, 9, 10, 12, 15, 20, 21, 22, 25, 31, 32]
+Solving time: 81.5 secs
+Answer Yes
+AXp: [4, 6, 8, 9, 10, 20, 21, 22, 25, 31]
+#23-th instance; prediction: False
+lending, 23-th inst file out of 100
+SMT encoding: query on feature 3 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [1, 3, 4, 7, 8, 9, 10, 12, 14, 15, 16, 18, 22, 23, 25, 31, 32, 33]
+Solving time: 16.0 secs
+Answer Yes
+AXp: [3, 16, 25]
+#24-th instance; prediction: False
+lending, 24-th inst file out of 100
+SMT encoding: query on feature 21 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.3 secs
+#25-th instance; prediction: True
+lending, 25-th inst file out of 100
+SMT encoding: query on feature 33 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#26-th instance; prediction: True
+lending, 26-th inst file out of 100
+SMT encoding: query on feature 23 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 25, 31, 32, 33]
+Solving time: 11.3 secs
+Answer Yes
+AXp: [23, 25]
+#27-th instance; prediction: True
+lending, 27-th inst file out of 100
+SMT encoding: query on feature 7 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#28-th instance; prediction: False
+lending, 28-th inst file out of 100
+SMT encoding: query on feature 12 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#29-th instance; prediction: False
+lending, 29-th inst file out of 100
+SMT encoding: query on feature 13 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 31, 32]
+Solving time: 18.1 secs
+Answer Yes
+AXp: [6, 13, 19, 20, 25, 31]
+#30-th instance; prediction: False
+lending, 30-th inst file out of 100
+SMT encoding: query on feature 22 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 31, 32, 33]
+Solving time: 11.8 secs
+Answer Yes
+AXp: [3, 6, 14, 19, 20, 22, 23]
+#31-th instance; prediction: False
+lending, 31-th inst file out of 100
+SMT encoding: query on feature 11 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 25, 31, 32, 33]
+Solving time: 16.4 secs
+Answer Yes
+AXp: [6, 8, 11, 20, 25, 31]
+#32-th instance; prediction: False
+lending, 32-th inst file out of 100
+SMT encoding: query on feature 25 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 6, 7, 8, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 25, 31, 32, 33]
+Solving time: 8.6 secs
+Answer Yes
+AXp: [11, 19, 20, 25, 31]
+#33-th instance; prediction: False
+lending, 33-th inst file out of 100
+SMT encoding: query on feature 7 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#34-th instance; prediction: False
+lending, 34-th inst file out of 100
+SMT encoding: query on feature 0 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 6, 19, 25, 33]
+Solving time: 29.6 secs
+Answer Yes
+AXp: [0, 2, 6, 19, 25, 33]
+#35-th instance; prediction: False
+lending, 35-th inst file out of 100
+SMT encoding: query on feature 8 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 3, 6, 7, 8, 10, 11, 12, 14, 16, 17, 20, 21, 25, 31, 32, 33]
+Solving time: 19.0 secs
+Answer Yes
+AXp: [3, 6, 8, 25]
+#36-th instance; prediction: True
+lending, 36-th inst file out of 100
+SMT encoding: query on feature 17 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#37-th instance; prediction: True
+lending, 37-th inst file out of 100
+SMT encoding: query on feature 14 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 3, 6, 12, 14, 19, 25, 31, 33]
+Solving time: 91.7 secs
+Answer Yes
+AXp: [1, 3, 6, 14, 25, 31]
+#38-th instance; prediction: False
+lending, 38-th inst file out of 100
+SMT encoding: query on feature 19 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [4, 9, 11, 12, 16, 17, 19, 23, 25, 31, 33]
+Solving time: 235.2 secs
+Answer Yes
+AXp: [11, 16, 19, 25, 31]
+#39-th instance; prediction: False
+lending, 39-th inst file out of 100
+SMT encoding: query on feature 21 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#40-th instance; prediction: False
+lending, 40-th inst file out of 100
+SMT encoding: query on feature 19 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 31, 32, 33]
+Solving time: 44.4 secs
+Answer Yes
+AXp: [11, 19, 20, 25, 31]
+#41-th instance; prediction: True
+lending, 41-th inst file out of 100
+SMT encoding: query on feature 14 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 25, 31, 32, 33]
+Solving time: 12.1 secs
+Answer Yes
+AXp: [4, 8, 11, 13, 14, 15, 18, 20, 22, 25, 31, 32]
+#42-th instance; prediction: False
+lending, 42-th inst file out of 100
+SMT encoding: query on feature 14 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#43-th instance; prediction: True
+lending, 43-th inst file out of 100
+SMT encoding: query on feature 6 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#44-th instance; prediction: True
+lending, 44-th inst file out of 100
+SMT encoding: query on feature 32 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 25, 31, 32, 33]
+Solving time: 12.6 secs
+Answer Yes
+AXp: [1, 3, 15, 22, 25, 31, 32]
+#45-th instance; prediction: True
+lending, 45-th inst file out of 100
+SMT encoding: query on feature 10 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#46-th instance; prediction: False
+lending, 46-th inst file out of 100
+SMT encoding: query on feature 15 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 4, 12, 13, 14, 15, 16, 18, 19, 22, 25]
+Solving time: 35.9 secs
+Answer Yes
+AXp: [2, 4, 12, 15, 16, 19, 25]
+#47-th instance; prediction: False
+lending, 47-th inst file out of 100
+SMT encoding: query on feature 14 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.4 secs
+#48-th instance; prediction: True
+lending, 48-th inst file out of 100
+SMT encoding: query on feature 10 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#49-th instance; prediction: True
+lending, 49-th inst file out of 100
+SMT encoding: query on feature 3 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 25, 31, 32, 33]
+Solving time: 12.1 secs
+Answer Yes
+AXp: [3, 13, 16, 19, 21, 22, 25, 31]
+#50-th instance; prediction: True
+lending, 50-th inst file out of 100
+SMT encoding: query on feature 10 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#51-th instance; prediction: False
+lending, 51-th inst file out of 100
+SMT encoding: query on feature 18 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#52-th instance; prediction: False
+lending, 52-th inst file out of 100
+SMT encoding: query on feature 31 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [3, 6, 7, 9, 14, 15, 16, 19, 20, 22, 25, 31, 32, 33]
+Solving time: 64.8 secs
+Answer Yes
+AXp: [7, 14, 16, 19, 20, 25, 31]
+#53-th instance; prediction: False
+lending, 53-th inst file out of 100
+SMT encoding: query on feature 22 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 6, 11, 15, 18, 21, 22, 25, 32, 33]
+Solving time: 30.5 secs
+Answer Yes
+AXp: [0, 2, 6, 11, 22, 25]
+#54-th instance; prediction: True
+lending, 54-th inst file out of 100
+SMT encoding: query on feature 25 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 31, 32, 33]
+Solving time: 11.4 secs
+Answer Yes
+AXp: [3, 6, 8, 14, 20, 22, 25, 31]
+#55-th instance; prediction: False
+lending, 55-th inst file out of 100
+SMT encoding: query on feature 12 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 6, 7, 12, 13, 14, 15, 16, 17, 21, 25, 31]
+Solving time: 223.2 secs
+Answer Yes
+AXp: [0, 1, 6, 12, 13, 14, 25, 31]
+#56-th instance; prediction: True
+lending, 56-th inst file out of 100
+SMT encoding: query on feature 15 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#57-th instance; prediction: True
+lending, 57-th inst file out of 100
+SMT encoding: query on feature 20 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#58-th instance; prediction: False
+lending, 58-th inst file out of 100
+SMT encoding: query on feature 18 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#59-th instance; prediction: True
+lending, 59-th inst file out of 100
+SMT encoding: query on feature 17 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#60-th instance; prediction: False
+lending, 60-th inst file out of 100
+SMT encoding: query on feature 21 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#61-th instance; prediction: False
+lending, 61-th inst file out of 100
+SMT encoding: query on feature 33 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [2, 4, 6, 12, 15, 16, 25, 33]
+Solving time: 30.4 secs
+Answer Yes
+AXp: [2, 4, 6, 12, 16, 25, 33]
+#62-th instance; prediction: False
+lending, 62-th inst file out of 100
+SMT encoding: query on feature 18 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#63-th instance; prediction: False
+lending, 63-th inst file out of 100
+SMT encoding: query on feature 4 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 4, 8, 9, 11, 12, 14, 15, 16, 17, 18, 19, 22, 23, 25, 31, 32, 33]
+Solving time: 18.6 secs
+Answer Yes
+AXp: [4, 11, 16, 25, 31]
+#64-th instance; prediction: False
+lending, 64-th inst file out of 100
+SMT encoding: query on feature 21 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#65-th instance; prediction: True
+lending, 65-th inst file out of 100
+SMT encoding: query on feature 13 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#66-th instance; prediction: True
+lending, 66-th inst file out of 100
+SMT encoding: query on feature 11 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#67-th instance; prediction: False
+lending, 67-th inst file out of 100
+SMT encoding: query on feature 11 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 31, 32, 33]
+Solving time: 19.0 secs
+Answer Yes
+AXp: [8, 11, 13, 20, 25, 31]
+#68-th instance; prediction: False
+lending, 68-th inst file out of 100
+SMT encoding: query on feature 11 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 31, 32]
+Solving time: 17.2 secs
+Answer Yes
+AXp: [11, 19, 20, 25, 31]
+#69-th instance; prediction: False
+lending, 69-th inst file out of 100
+SMT encoding: query on feature 11 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 32]
+Solving time: 19.2 secs
+Answer Yes
+AXp: [6, 11, 13, 19, 25]
+#70-th instance; prediction: True
+lending, 70-th inst file out of 100
+SMT encoding: query on feature 12 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#71-th instance; prediction: True
+lending, 71-th inst file out of 100
+SMT encoding: query on feature 4 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#72-th instance; prediction: True
+lending, 72-th inst file out of 100
+SMT encoding: query on feature 23 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 25, 31, 32, 33]
+Solving time: 11.1 secs
+Answer Yes
+AXp: [23, 25]
+#73-th instance; prediction: False
+lending, 73-th inst file out of 100
+SMT encoding: query on feature 9 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#74-th instance; prediction: True
+lending, 74-th inst file out of 100
+SMT encoding: query on feature 14 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#75-th instance; prediction: True
+lending, 75-th inst file out of 100
+SMT encoding: query on feature 20 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 31, 32, 33]
+Solving time: 12.6 secs
+Answer Yes
+AXp: [3, 8, 10, 14, 20, 22, 25, 31]
+#76-th instance; prediction: True
+lending, 76-th inst file out of 100
+SMT encoding: query on feature 4 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#77-th instance; prediction: False
+lending, 77-th inst file out of 100
+SMT encoding: query on feature 20 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 7, 8, 13, 14, 15, 17, 19, 20, 25, 31, 32]
+Solving time: 69.3 secs
+Answer Yes
+AXp: [2, 13, 15, 19, 20, 25]
+#78-th instance; prediction: False
+lending, 78-th inst file out of 100
+SMT encoding: query on feature 3 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [2, 3, 6, 7, 11, 12, 17, 20, 21, 25]
+Solving time: 28.7 secs
+Answer Yes
+AXp: [2, 3, 11, 20, 25]
+#79-th instance; prediction: False
+lending, 79-th inst file out of 100
+SMT encoding: query on feature 4 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [2, 3, 4, 6, 7, 8, 9, 10, 13, 14, 16, 17, 18, 19, 20, 21, 23, 25, 32, 33]
+Solving time: 194.4 secs
+Answer Yes
+AXp: [4, 8, 13, 14, 16, 17, 19, 25, 32]
+#80-th instance; prediction: True
+lending, 80-th inst file out of 100
+SMT encoding: query on feature 25 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 31, 32, 33]
+Solving time: 11.7 secs
+Answer Yes
+AXp: [3, 6, 21, 22, 25, 31]
+#81-th instance; prediction: False
+lending, 81-th inst file out of 100
+SMT encoding: query on feature 6 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 31, 32]
+Solving time: 11.5 secs
+Answer Yes
+AXp: [6, 13, 19, 20, 25, 31]
+#82-th instance; prediction: True
+lending, 82-th inst file out of 100
+SMT encoding: query on feature 32 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#83-th instance; prediction: True
+lending, 83-th inst file out of 100
+SMT encoding: query on feature 4 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#84-th instance; prediction: True
+lending, 84-th inst file out of 100
+SMT encoding: query on feature 32 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#85-th instance; prediction: False
+lending, 85-th inst file out of 100
+SMT encoding: query on feature 20 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [1, 2, 3, 7, 12, 13, 14, 15, 18, 19, 20, 22, 23, 25, 31, 32, 33]
+Solving time: 20.5 secs
+Answer Yes
+AXp: [2, 15, 19, 20, 25, 33]
+#86-th instance; prediction: True
+lending, 86-th inst file out of 100
+SMT encoding: query on feature 7 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.9 secs
+#87-th instance; prediction: False
+lending, 87-th inst file out of 100
+SMT encoding: query on feature 18 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#88-th instance; prediction: False
+lending, 88-th inst file out of 100
+SMT encoding: query on feature 17 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#89-th instance; prediction: False
+lending, 89-th inst file out of 100
+SMT encoding: query on feature 6 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 31, 32, 33]
+Solving time: 19.8 secs
+Answer Yes
+AXp: [6, 19, 20, 25, 31, 33]
+#90-th instance; prediction: True
+lending, 90-th inst file out of 100
+SMT encoding: query on feature 19 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.2 secs
+#91-th instance; prediction: False
+lending, 91-th inst file out of 100
+SMT encoding: query on feature 18 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.4 secs
+#92-th instance; prediction: False
+lending, 92-th inst file out of 100
+SMT encoding: query on feature 33 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 31, 32, 33]
+Solving time: 12.0 secs
+Answer Yes
+AXp: [6, 19, 20, 25, 31, 33]
+#93-th instance; prediction: True
+lending, 93-th inst file out of 100
+SMT encoding: query on feature 4 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.6 secs
+#94-th instance; prediction: True
+lending, 94-th inst file out of 100
+SMT encoding: query on feature 17 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#95-th instance; prediction: True
+lending, 95-th inst file out of 100
+SMT encoding: query on feature 17 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.7 secs
+#96-th instance; prediction: False
+lending, 96-th inst file out of 100
+SMT encoding: query on feature 9 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#97-th instance; prediction: True
+lending, 97-th inst file out of 100
+SMT encoding: query on feature 13 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [1, 2, 3, 4, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 31, 32, 33]
+Solving time: 28.8 secs
+Answer Yes
+AXp: [4, 9, 10, 11, 13, 21, 22, 25, 31]
+#98-th instance; prediction: True
+lending, 98-th inst file out of 100
+SMT encoding: query on feature 18 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.7 secs
+#99-th instance; prediction: True
+lending, 99-th inst file out of 100
+SMT encoding: query on feature 32 out of 35 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+lending & 100 & 27 & 313 & 45(55) & 661 & 672 & 17774.6 & 300.6 & 8.6 & 177.7
+
+############ recidivism ############
+#0-th instance; prediction: False
+recidivism, 0-th inst file out of 100
+SMT encoding: query on feature 7 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 14, 16, 18, 19, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 30.1 secs
+Answer Yes
+AXp: [1, 4, 5, 7, 8, 11, 14, 22, 23, 24, 25]
+#1-th instance; prediction: False
+recidivism, 1-th inst file out of 100
+SMT encoding: query on feature 21 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28]
+Solving time: 27.2 secs
+Answer Yes
+AXp: [0, 1, 2, 12, 15, 20, 21, 24, 25, 26, 28]
+#2-th instance; prediction: True
+recidivism, 2-th inst file out of 100
+SMT encoding: query on feature 26 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.5 secs
+#3-th instance; prediction: True
+recidivism, 3-th inst file out of 100
+SMT encoding: query on feature 19 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 298.5 secs
+#4-th instance; prediction: False
+recidivism, 4-th inst file out of 100
+SMT encoding: query on feature 23 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 15.8 secs
+Answer Yes
+AXp: [0, 3, 12, 13, 16, 23, 28]
+#5-th instance; prediction: False
+recidivism, 5-th inst file out of 100
+SMT encoding: query on feature 13 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.9 secs
+#6-th instance; prediction: True
+recidivism, 6-th inst file out of 100
+SMT encoding: query on feature 15 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 32.5 secs
+Answer Yes
+AXp: [2, 4, 5, 7, 8, 9, 11, 12, 14, 15, 23, 25]
+#7-th instance; prediction: False
+recidivism, 7-th inst file out of 100
+SMT encoding: query on feature 11 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.7 secs
+#8-th instance; prediction: True
+recidivism, 8-th inst file out of 100
+SMT encoding: query on feature 11 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 301.2 secs
+#9-th instance; prediction: True
+recidivism, 9-th inst file out of 100
+SMT encoding: query on feature 0 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28]
+Solving time: 19.7 secs
+Answer Yes
+AXp: [0, 1, 4, 9, 11, 12, 13, 14, 21, 27]
+#10-th instance; prediction: True
+recidivism, 10-th inst file out of 100
+SMT encoding: query on feature 14 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 20.2 secs
+Answer Yes
+AXp: [0, 5, 6, 9, 13, 14, 16, 17, 20, 23, 25]
+#11-th instance; prediction: True
+recidivism, 11-th inst file out of 100
+SMT encoding: query on feature 20 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 17.1 secs
+Answer Yes
+AXp: [0, 7, 8, 9, 12, 20, 23, 24, 26]
+#12-th instance; prediction: False
+recidivism, 12-th inst file out of 100
+SMT encoding: query on feature 16 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#13-th instance; prediction: False
+recidivism, 13-th inst file out of 100
+SMT encoding: query on feature 19 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#14-th instance; prediction: False
+recidivism, 14-th inst file out of 100
+SMT encoding: query on feature 19 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#15-th instance; prediction: False
+recidivism, 15-th inst file out of 100
+SMT encoding: query on feature 17 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.8 secs
+#16-th instance; prediction: True
+recidivism, 16-th inst file out of 100
+SMT encoding: query on feature 0 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28]
+Solving time: 27.2 secs
+Answer Yes
+AXp: [0, 1, 6, 7, 8, 12, 15, 16, 17, 20, 24, 25]
+#17-th instance; prediction: False
+recidivism, 17-th inst file out of 100
+SMT encoding: query on feature 21 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.8 secs
+#18-th instance; prediction: False
+recidivism, 18-th inst file out of 100
+SMT encoding: query on feature 12 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 22.0 secs
+Answer Yes
+AXp: [1, 2, 3, 9, 12, 14, 16, 18, 20, 23, 25]
+#19-th instance; prediction: False
+recidivism, 19-th inst file out of 100
+SMT encoding: query on feature 11 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#20-th instance; prediction: True
+recidivism, 20-th inst file out of 100
+SMT encoding: query on feature 10 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#21-th instance; prediction: False
+recidivism, 21-th inst file out of 100
+SMT encoding: query on feature 16 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 16.5 secs
+Answer Yes
+AXp: [8, 9, 12, 16, 20, 23, 24, 26]
+#22-th instance; prediction: False
+recidivism, 22-th inst file out of 100
+SMT encoding: query on feature 27 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#23-th instance; prediction: False
+recidivism, 23-th inst file out of 100
+SMT encoding: query on feature 22 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 25, 27, 28]
+Solving time: 28.9 secs
+Answer Yes
+AXp: [4, 5, 7, 8, 12, 16, 22, 23, 25, 27]
+#24-th instance; prediction: False
+recidivism, 24-th inst file out of 100
+SMT encoding: query on feature 12 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 15.5 secs
+Answer Yes
+AXp: [7, 8, 12, 16, 20, 23, 28]
+#25-th instance; prediction: False
+recidivism, 25-th inst file out of 100
+SMT encoding: query on feature 5 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27]
+Solving time: 25.6 secs
+Answer Yes
+AXp: [0, 1, 4, 5, 8, 9, 11, 20, 23, 24, 25, 26]
+#26-th instance; prediction: True
+recidivism, 26-th inst file out of 100
+SMT encoding: query on feature 12 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 28]
+Solving time: 16.1 secs
+Answer Yes
+AXp: [0, 1, 2, 3, 7, 9, 12, 15, 20, 23]
+#27-th instance; prediction: True
+recidivism, 27-th inst file out of 100
+SMT encoding: query on feature 9 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 27, 28]
+Solving time: 19.5 secs
+Answer Yes
+AXp: [2, 4, 8, 9, 12, 14, 17, 19, 21, 23, 27, 28]
+#28-th instance; prediction: False
+recidivism, 28-th inst file out of 100
+SMT encoding: query on feature 5 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16, 18, 19, 21, 22, 23, 24, 26, 27, 28]
+Solving time: 27.0 secs
+Answer Yes
+AXp: [0, 4, 5, 7, 8, 11, 14, 16, 21, 23, 24, 26]
+#29-th instance; prediction: False
+recidivism, 29-th inst file out of 100
+SMT encoding: query on feature 15 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28]
+Solving time: 17.9 secs
+Answer Yes
+AXp: [0, 2, 8, 12, 15, 20, 23, 24, 25]
+#30-th instance; prediction: True
+recidivism, 30-th inst file out of 100
+SMT encoding: query on feature 16 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.9 secs
+#31-th instance; prediction: True
+recidivism, 31-th inst file out of 100
+SMT encoding: query on feature 15 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.9 secs
+#32-th instance; prediction: False
+recidivism, 32-th inst file out of 100
+SMT encoding: query on feature 19 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.6 secs
+#33-th instance; prediction: True
+recidivism, 33-th inst file out of 100
+SMT encoding: query on feature 14 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 41.3 secs
+Answer Yes
+AXp: [1, 4, 5, 7, 8, 9, 11, 12, 14, 23]
+#34-th instance; prediction: True
+recidivism, 34-th inst file out of 100
+SMT encoding: query on feature 21 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.9 secs
+#35-th instance; prediction: True
+recidivism, 35-th inst file out of 100
+SMT encoding: query on feature 12 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 21.3 secs
+Answer Yes
+AXp: [1, 4, 7, 11, 12, 14, 21, 23]
+#36-th instance; prediction: True
+recidivism, 36-th inst file out of 100
+SMT encoding: query on feature 14 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 37.6 secs
+Answer Yes
+AXp: [8, 9, 10, 12, 14, 16, 17, 19, 20, 23]
+#37-th instance; prediction: False
+recidivism, 37-th inst file out of 100
+SMT encoding: query on feature 16 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.7 secs
+#38-th instance; prediction: False
+recidivism, 38-th inst file out of 100
+SMT encoding: query on feature 26 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.6 secs
+#39-th instance; prediction: False
+recidivism, 39-th inst file out of 100
+SMT encoding: query on feature 25 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 28]
+Solving time: 18.2 secs
+Answer Yes
+AXp: [4, 7, 8, 11, 14, 20, 21, 23, 25, 28]
+#40-th instance; prediction: False
+recidivism, 40-th inst file out of 100
+SMT encoding: query on feature 5 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 26.3 secs
+Answer Yes
+AXp: [0, 1, 4, 5, 8, 9, 11, 12, 14, 23]
+#41-th instance; prediction: True
+recidivism, 41-th inst file out of 100
+SMT encoding: query on feature 2 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 25, 26, 27, 28]
+Solving time: 20.5 secs
+Answer Yes
+AXp: [1, 2, 5, 7, 9, 12, 15, 16, 23, 28]
+#42-th instance; prediction: True
+recidivism, 42-th inst file out of 100
+SMT encoding: query on feature 24 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.1 secs
+#43-th instance; prediction: False
+recidivism, 43-th inst file out of 100
+SMT encoding: query on feature 28 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 298.9 secs
+#44-th instance; prediction: False
+recidivism, 44-th inst file out of 100
+SMT encoding: query on feature 7 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 25.2 secs
+Answer Yes
+AXp: [7, 12, 15, 16, 20, 23, 27]
+#45-th instance; prediction: False
+recidivism, 45-th inst file out of 100
+SMT encoding: query on feature 20 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28]
+Solving time: 27.2 secs
+Answer Yes
+AXp: [2, 6, 7, 8, 9, 12, 15, 16, 17, 20, 22, 25, 27]
+#46-th instance; prediction: False
+recidivism, 46-th inst file out of 100
+SMT encoding: query on feature 0 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 24.0 secs
+Answer Yes
+AXp: [0, 2, 12, 15, 16, 20, 23]
+#47-th instance; prediction: False
+recidivism, 47-th inst file out of 100
+SMT encoding: query on feature 18 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 298.2 secs
+#48-th instance; prediction: True
+recidivism, 48-th inst file out of 100
+SMT encoding: query on feature 10 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.8 secs
+#49-th instance; prediction: True
+recidivism, 49-th inst file out of 100
+SMT encoding: query on feature 19 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.0 secs
+#50-th instance; prediction: False
+recidivism, 50-th inst file out of 100
+SMT encoding: query on feature 1 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 18.0 secs
+Answer Yes
+AXp: [1, 5, 6, 7, 12, 20, 23]
+#51-th instance; prediction: False
+recidivism, 51-th inst file out of 100
+SMT encoding: query on feature 14 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.5 secs
+#52-th instance; prediction: True
+recidivism, 52-th inst file out of 100
+SMT encoding: query on feature 21 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 298.6 secs
+#53-th instance; prediction: True
+recidivism, 53-th inst file out of 100
+SMT encoding: query on feature 6 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 20.7 secs
+Answer Yes
+AXp: [6, 8, 9, 10, 13, 14, 16, 17, 20, 23, 25]
+#54-th instance; prediction: False
+recidivism, 54-th inst file out of 100
+SMT encoding: query on feature 27 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.5 secs
+#55-th instance; prediction: False
+recidivism, 55-th inst file out of 100
+SMT encoding: query on feature 14 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25, 27, 28]
+Solving time: 27.9 secs
+Answer Yes
+AXp: [0, 1, 5, 7, 11, 12, 14, 17, 21, 25]
+#56-th instance; prediction: True
+recidivism, 56-th inst file out of 100
+SMT encoding: query on feature 25 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28]
+Solving time: 19.8 secs
+Answer Yes
+AXp: [0, 4, 6, 12, 16, 20, 23, 25]
+#57-th instance; prediction: True
+recidivism, 57-th inst file out of 100
+SMT encoding: query on feature 14 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#58-th instance; prediction: True
+recidivism, 58-th inst file out of 100
+SMT encoding: query on feature 18 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#59-th instance; prediction: False
+recidivism, 59-th inst file out of 100
+SMT encoding: query on feature 20 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28]
+Solving time: 16.4 secs
+Answer Yes
+AXp: [0, 1, 4, 7, 11, 14, 20, 21, 23, 25, 28]
+#60-th instance; prediction: True
+recidivism, 60-th inst file out of 100
+SMT encoding: query on feature 5 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 32.6 secs
+Answer Yes
+AXp: [2, 3, 5, 9, 10, 12, 17, 18, 23]
+#61-th instance; prediction: True
+recidivism, 61-th inst file out of 100
+SMT encoding: query on feature 28 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#62-th instance; prediction: True
+recidivism, 62-th inst file out of 100
+SMT encoding: query on feature 3 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.9 secs
+#63-th instance; prediction: False
+recidivism, 63-th inst file out of 100
+SMT encoding: query on feature 28 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.6 secs
+#64-th instance; prediction: False
+recidivism, 64-th inst file out of 100
+SMT encoding: query on feature 4 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 26, 27, 28]
+Solving time: 21.3 secs
+Answer Yes
+AXp: [4, 5, 7, 8, 12, 15, 16, 17, 23, 24, 27]
+#65-th instance; prediction: False
+recidivism, 65-th inst file out of 100
+SMT encoding: query on feature 6 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.4 secs
+#66-th instance; prediction: True
+recidivism, 66-th inst file out of 100
+SMT encoding: query on feature 28 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 298.6 secs
+#67-th instance; prediction: False
+recidivism, 67-th inst file out of 100
+SMT encoding: query on feature 6 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.8 secs
+#68-th instance; prediction: False
+recidivism, 68-th inst file out of 100
+SMT encoding: query on feature 25 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 18.6 secs
+Answer Yes
+AXp: [4, 5, 7, 11, 14, 20, 21, 22, 23, 24, 25]
+#69-th instance; prediction: True
+recidivism, 69-th inst file out of 100
+SMT encoding: query on feature 22 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#70-th instance; prediction: True
+recidivism, 70-th inst file out of 100
+SMT encoding: query on feature 17 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 309.8 secs
+#71-th instance; prediction: True
+recidivism, 71-th inst file out of 100
+SMT encoding: query on feature 27 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.5 secs
+#72-th instance; prediction: True
+recidivism, 72-th inst file out of 100
+SMT encoding: query on feature 15 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.2 secs
+#73-th instance; prediction: True
+recidivism, 73-th inst file out of 100
+SMT encoding: query on feature 6 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 8, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 21.3 secs
+Answer Yes
+AXp: [1, 4, 6, 7, 8, 12, 14, 21, 23]
+#74-th instance; prediction: False
+recidivism, 74-th inst file out of 100
+SMT encoding: query on feature 4 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 9, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 19.2 secs
+Answer Yes
+AXp: [0, 1, 4, 6, 12, 14, 20, 21, 23, 25]
+#75-th instance; prediction: True
+recidivism, 75-th inst file out of 100
+SMT encoding: query on feature 24 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28]
+Solving time: 32.2 secs
+Answer Yes
+AXp: [4, 6, 7, 8, 9, 12, 15, 16, 17, 20, 24, 25]
+#76-th instance; prediction: False
+recidivism, 76-th inst file out of 100
+SMT encoding: query on feature 9 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 19.9 secs
+Answer Yes
+AXp: [0, 2, 3, 5, 7, 8, 9, 16, 17, 23]
+#77-th instance; prediction: False
+recidivism, 77-th inst file out of 100
+SMT encoding: query on feature 24 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 20.0 secs
+Answer Yes
+AXp: [1, 2, 4, 7, 11, 16, 20, 21, 23, 24, 28]
+#78-th instance; prediction: True
+recidivism, 78-th inst file out of 100
+SMT encoding: query on feature 7 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#79-th instance; prediction: True
+recidivism, 79-th inst file out of 100
+SMT encoding: query on feature 6 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.9 secs
+#80-th instance; prediction: False
+recidivism, 80-th inst file out of 100
+SMT encoding: query on feature 6 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 28.1 secs
+Answer Yes
+AXp: [1, 3, 5, 6, 7, 12, 15, 20, 23, 25, 26, 27]
+#81-th instance; prediction: True
+recidivism, 81-th inst file out of 100
+SMT encoding: query on feature 25 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 18.3 secs
+Answer Yes
+AXp: [4, 7, 9, 11, 15, 20, 21, 23, 24, 25, 27]
+#82-th instance; prediction: True
+recidivism, 82-th inst file out of 100
+SMT encoding: query on feature 3 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.0 secs
+#83-th instance; prediction: True
+recidivism, 83-th inst file out of 100
+SMT encoding: query on feature 23 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 17.2 secs
+Answer Yes
+AXp: [1, 4, 5, 8, 9, 11, 12, 14, 23, 27]
+#84-th instance; prediction: True
+recidivism, 84-th inst file out of 100
+SMT encoding: query on feature 19 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#85-th instance; prediction: False
+recidivism, 85-th inst file out of 100
+SMT encoding: query on feature 21 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 28]
+Solving time: 18.1 secs
+Answer Yes
+AXp: [1, 7, 8, 11, 14, 20, 21, 23, 25, 28]
+#86-th instance; prediction: True
+recidivism, 86-th inst file out of 100
+SMT encoding: query on feature 7 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 20.9 secs
+Answer Yes
+AXp: [3, 7, 8, 9, 10, 14, 16, 17, 19, 20, 23]
+#87-th instance; prediction: True
+recidivism, 87-th inst file out of 100
+SMT encoding: query on feature 21 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.8 secs
+#88-th instance; prediction: True
+recidivism, 88-th inst file out of 100
+SMT encoding: query on feature 17 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 298.8 secs
+#89-th instance; prediction: True
+recidivism, 89-th inst file out of 100
+SMT encoding: query on feature 7 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.9 secs
+#90-th instance; prediction: True
+recidivism, 90-th inst file out of 100
+SMT encoding: query on feature 8 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 19.0 secs
+Answer Yes
+AXp: [3, 6, 7, 8, 9, 12, 17, 20, 23, 25]
+#91-th instance; prediction: True
+recidivism, 91-th inst file out of 100
+SMT encoding: query on feature 2 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 24, 25, 26, 27, 28]
+Solving time: 32.0 secs
+Answer Yes
+AXp: [0, 2, 4, 5, 7, 9, 10, 11, 12, 17, 21]
+#92-th instance; prediction: False
+recidivism, 92-th inst file out of 100
+SMT encoding: query on feature 25 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.9 secs
+#93-th instance; prediction: False
+recidivism, 93-th inst file out of 100
+SMT encoding: query on feature 4 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.8 secs
+#94-th instance; prediction: True
+recidivism, 94-th inst file out of 100
+SMT encoding: query on feature 19 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28]
+Solving time: 32.1 secs
+Answer Yes
+AXp: [1, 5, 6, 8, 9, 11, 12, 19, 20, 23, 25]
+#95-th instance; prediction: True
+recidivism, 95-th inst file out of 100
+SMT encoding: query on feature 8 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.9 secs
+#96-th instance; prediction: True
+recidivism, 96-th inst file out of 100
+SMT encoding: query on feature 23 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28]
+Solving time: 16.9 secs
+Answer Yes
+AXp: [2, 4, 7, 11, 12, 16, 21, 23]
+#97-th instance; prediction: False
+recidivism, 97-th inst file out of 100
+SMT encoding: query on feature 14 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.9 secs
+#98-th instance; prediction: False
+recidivism, 98-th inst file out of 100
+SMT encoding: query on feature 19 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]
+Solving time: 19.9 secs
+Answer Yes
+AXp: [0, 1, 6, 7, 11, 19, 20, 21, 23, 24]
+#99-th instance; prediction: True
+recidivism, 99-th inst file out of 100
+SMT encoding: query on feature 25 out of 29 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.8 secs
+recidivism & 100 & 29 & 686 & 49(51) & 1401 & 1404 & 13895.8 & 693.2 & 15.5 & 139.0
+
+############ tic_tac_toe ############
+#0-th instance; prediction: True
+tic_tac_toe, 0-th inst file out of 100
+SMT encoding: query on feature 3 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 5, 8, 10, 11, 13, 16, 20, 23, 25]
+Solving time: 46.0 secs
+Answer Yes
+AXp: [2, 3, 4, 5, 8, 13, 16, 20, 23]
+#1-th instance; prediction: True
+tic_tac_toe, 1-th inst file out of 100
+SMT encoding: query on feature 13 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 16, 17, 20, 21, 22, 23, 25, 26]
+Solving time: 4.2 secs
+Answer Yes
+AXp: [13, 20, 23, 26]
+#2-th instance; prediction: True
+tic_tac_toe, 2-th inst file out of 100
+SMT encoding: query on feature 3 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.3 secs
+#3-th instance; prediction: True
+tic_tac_toe, 3-th inst file out of 100
+SMT encoding: query on feature 13 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22, 23, 25, 26]
+Solving time: 4.4 secs
+Answer Yes
+AXp: [7, 13, 19]
+#4-th instance; prediction: True
+tic_tac_toe, 4-th inst file out of 100
+SMT encoding: query on feature 19 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22, 23, 25, 26]
+Solving time: 4.5 secs
+Answer Yes
+AXp: [7, 13, 19]
+#5-th instance; prediction: True
+tic_tac_toe, 5-th inst file out of 100
+SMT encoding: query on feature 23 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22, 23, 25, 26]
+Solving time: 5.1 secs
+Answer Yes
+AXp: [13, 20, 23, 26]
+#6-th instance; prediction: True
+tic_tac_toe, 6-th inst file out of 100
+SMT encoding: query on feature 23 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 16, 17, 19, 20, 22, 23, 25, 26]
+Solving time: 5.0 secs
+Answer Yes
+AXp: [1, 2, 7, 16, 17, 19, 22, 23, 26]
+#7-th instance; prediction: True
+tic_tac_toe, 7-th inst file out of 100
+SMT encoding: query on feature 19 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [1, 2, 4, 5, 7, 8, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22, 23, 25, 26]
+Solving time: 5.0 secs
+Answer Yes
+AXp: [2, 10, 13, 19, 21, 23, 26]
+#8-th instance; prediction: False
+tic_tac_toe, 8-th inst file out of 100
+SMT encoding: query on feature 4 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 301.4 secs
+#9-th instance; prediction: True
+tic_tac_toe, 9-th inst file out of 100
+SMT encoding: query on feature 3 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#10-th instance; prediction: False
+tic_tac_toe, 10-th inst file out of 100
+SMT encoding: query on feature 4 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 3, 4, 5, 7, 8, 9, 11, 13, 16, 17, 19, 20, 21, 22, 23, 25]
+Solving time: 3.7 secs
+Answer Yes
+AXp: [3, 4, 13, 20, 21, 23]
+#11-th instance; prediction: True
+tic_tac_toe, 11-th inst file out of 100
+SMT encoding: query on feature 8 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#12-th instance; prediction: False
+tic_tac_toe, 12-th inst file out of 100
+SMT encoding: query on feature 25 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#13-th instance; prediction: False
+tic_tac_toe, 13-th inst file out of 100
+SMT encoding: query on feature 22 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.5 secs
+#14-th instance; prediction: False
+tic_tac_toe, 14-th inst file out of 100
+SMT encoding: query on feature 21 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 3, 5, 7, 8, 9, 10, 11, 16, 17, 19, 20, 21, 22]
+Solving time: 3.3 secs
+Answer Yes
+AXp: [1, 7, 8, 10, 19, 20, 21]
+#15-th instance; prediction: True
+tic_tac_toe, 15-th inst file out of 100
+SMT encoding: query on feature 8 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.6 secs
+#16-th instance; prediction: False
+tic_tac_toe, 16-th inst file out of 100
+SMT encoding: query on feature 2 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 7, 8, 9, 10, 11, 13, 16, 19, 20, 21, 22, 23, 25]
+Solving time: 3.9 secs
+Answer Yes
+AXp: [2, 3, 13, 20, 21, 23]
+#17-th instance; prediction: True
+tic_tac_toe, 17-th inst file out of 100
+SMT encoding: query on feature 16 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 16, 17, 19, 20, 22, 23, 25, 26]
+Solving time: 4.4 secs
+Answer Yes
+AXp: [7, 9, 10, 13, 16, 25]
+#18-th instance; prediction: True
+tic_tac_toe, 18-th inst file out of 100
+SMT encoding: query on feature 23 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 8, 9, 10, 11, 13, 16, 17, 19, 20, 22, 23, 25, 26]
+Solving time: 4.9 secs
+Answer Yes
+AXp: [2, 4, 16, 19, 23, 26]
+#19-th instance; prediction: True
+tic_tac_toe, 19-th inst file out of 100
+SMT encoding: query on feature 10 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22, 25, 26]
+Solving time: 5.0 secs
+Answer Yes
+AXp: [4, 9, 10, 13, 25]
+#20-th instance; prediction: True
+tic_tac_toe, 20-th inst file out of 100
+SMT encoding: query on feature 17 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 16, 17, 19, 20, 21, 22, 23, 25, 26]
+Solving time: 5.4 secs
+Answer Yes
+AXp: [7, 8, 17, 19, 20, 26]
+#21-th instance; prediction: True
+tic_tac_toe, 21-th inst file out of 100
+SMT encoding: query on feature 17 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#22-th instance; prediction: False
+tic_tac_toe, 22-th inst file out of 100
+SMT encoding: query on feature 16 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 3, 5, 7, 8, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22, 25]
+Solving time: 3.5 secs
+Answer Yes
+AXp: [5, 7, 10, 13, 16, 17, 19, 20, 21]
+#23-th instance; prediction: True
+tic_tac_toe, 23-th inst file out of 100
+SMT encoding: query on feature 9 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 7, 8, 9, 10, 11, 13, 16, 17, 20, 21, 22, 23, 25, 26]
+Solving time: 5.1 secs
+Answer Yes
+AXp: [1, 7, 9, 10, 13, 16]
+#24-th instance; prediction: True
+tic_tac_toe, 24-th inst file out of 100
+SMT encoding: query on feature 20 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#25-th instance; prediction: True
+tic_tac_toe, 25-th inst file out of 100
+SMT encoding: query on feature 2 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#26-th instance; prediction: True
+tic_tac_toe, 26-th inst file out of 100
+SMT encoding: query on feature 25 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.6 secs
+#27-th instance; prediction: False
+tic_tac_toe, 27-th inst file out of 100
+SMT encoding: query on feature 22 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 9, 10, 17, 19, 20, 21, 22, 23, 25, 26]
+Solving time: 6.3 secs
+Answer Yes
+AXp: [1, 3, 19, 21, 22, 23, 25, 26]
+#28-th instance; prediction: True
+tic_tac_toe, 28-th inst file out of 100
+SMT encoding: query on feature 4 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 11, 13, 16, 17, 19, 21, 22, 23, 25, 26]
+Solving time: 4.4 secs
+Answer Yes
+AXp: [2, 4, 16, 19, 23, 26]
+#29-th instance; prediction: True
+tic_tac_toe, 29-th inst file out of 100
+SMT encoding: query on feature 5 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#30-th instance; prediction: True
+tic_tac_toe, 30-th inst file out of 100
+SMT encoding: query on feature 16 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22, 23, 25, 26]
+Solving time: 4.6 secs
+Answer Yes
+AXp: [4, 13, 16, 19]
+#31-th instance; prediction: True
+tic_tac_toe, 31-th inst file out of 100
+SMT encoding: query on feature 9 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.7 secs
+#32-th instance; prediction: False
+tic_tac_toe, 32-th inst file out of 100
+SMT encoding: query on feature 17 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.3 secs
+#33-th instance; prediction: True
+tic_tac_toe, 33-th inst file out of 100
+SMT encoding: query on feature 21 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.5 secs
+#34-th instance; prediction: True
+tic_tac_toe, 34-th inst file out of 100
+SMT encoding: query on feature 25 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.7 secs
+#35-th instance; prediction: False
+tic_tac_toe, 35-th inst file out of 100
+SMT encoding: query on feature 11 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.6 secs
+#36-th instance; prediction: False
+tic_tac_toe, 36-th inst file out of 100
+SMT encoding: query on feature 22 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#37-th instance; prediction: True
+tic_tac_toe, 37-th inst file out of 100
+SMT encoding: query on feature 13 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22, 23, 25, 26]
+Solving time: 4.3 secs
+Answer Yes
+AXp: [7, 13, 19]
+#38-th instance; prediction: True
+tic_tac_toe, 38-th inst file out of 100
+SMT encoding: query on feature 25 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 5, 7, 8, 10, 16, 20, 23, 25, 26]
+Solving time: 22.2 secs
+Answer Yes
+AXp: [4, 7, 10, 16, 20, 23, 25, 26]
+#39-th instance; prediction: True
+tic_tac_toe, 39-th inst file out of 100
+SMT encoding: query on feature 17 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 16, 17, 19, 20, 21, 22, 25, 26]
+Solving time: 5.7 secs
+Answer Yes
+AXp: [2, 7, 10, 17, 19, 21, 26]
+#40-th instance; prediction: False
+tic_tac_toe, 40-th inst file out of 100
+SMT encoding: query on feature 21 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.6 secs
+#41-th instance; prediction: True
+tic_tac_toe, 41-th inst file out of 100
+SMT encoding: query on feature 25 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 16, 17, 20, 21, 23, 25, 26]
+Solving time: 8.4 secs
+Answer Yes
+AXp: [1, 13, 25]
+#42-th instance; prediction: True
+tic_tac_toe, 42-th inst file out of 100
+SMT encoding: query on feature 5 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#43-th instance; prediction: False
+tic_tac_toe, 43-th inst file out of 100
+SMT encoding: query on feature 13 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 8, 9, 10, 11, 13, 20, 21, 22, 23, 25, 26]
+Solving time: 4.8 secs
+Answer Yes
+AXp: [3, 13, 20, 21, 23, 26]
+#44-th instance; prediction: False
+tic_tac_toe, 44-th inst file out of 100
+SMT encoding: query on feature 8 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 10, 11, 13, 16, 19, 20, 21, 22, 25]
+Solving time: 3.3 secs
+Answer Yes
+AXp: [4, 7, 8, 13, 19, 20]
+#45-th instance; prediction: True
+tic_tac_toe, 45-th inst file out of 100
+SMT encoding: query on feature 3 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 16, 17, 19, 20, 21, 22, 25, 26]
+Solving time: 4.5 secs
+Answer Yes
+AXp: [3, 4, 16, 19, 20, 26]
+#46-th instance; prediction: True
+tic_tac_toe, 46-th inst file out of 100
+SMT encoding: query on feature 20 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#47-th instance; prediction: False
+tic_tac_toe, 47-th inst file out of 100
+SMT encoding: query on feature 7 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.8 secs
+#48-th instance; prediction: False
+tic_tac_toe, 48-th inst file out of 100
+SMT encoding: query on feature 22 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.9 secs
+#49-th instance; prediction: False
+tic_tac_toe, 49-th inst file out of 100
+SMT encoding: query on feature 8 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#50-th instance; prediction: True
+tic_tac_toe, 50-th inst file out of 100
+SMT encoding: query on feature 16 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 8, 9, 10, 11, 13, 16, 17, 19, 21, 22, 23, 25, 26]
+Solving time: 5.5 secs
+Answer Yes
+AXp: [4, 13, 16, 19]
+#51-th instance; prediction: True
+tic_tac_toe, 51-th inst file out of 100
+SMT encoding: query on feature 2 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 7, 8, 10, 11, 13, 16, 17, 19, 20, 21, 22, 23, 25, 26]
+Solving time: 6.0 secs
+Answer Yes
+AXp: [2, 3, 10, 13, 17, 19, 23, 26]
+#52-th instance; prediction: True
+tic_tac_toe, 52-th inst file out of 100
+SMT encoding: query on feature 5 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 16, 17, 19, 20, 21, 22, 23, 25]
+Solving time: 9.5 secs
+Answer Yes
+AXp: [2, 4, 5, 8, 16, 19, 20, 23]
+#53-th instance; prediction: False
+tic_tac_toe, 53-th inst file out of 100
+SMT encoding: query on feature 2 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 7, 8, 9, 10, 11, 16, 17, 20, 21, 22, 23, 25, 26]
+Solving time: 4.5 secs
+Answer Yes
+AXp: [1, 2, 7, 11, 16, 25, 26]
+#54-th instance; prediction: True
+tic_tac_toe, 54-th inst file out of 100
+SMT encoding: query on feature 4 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 5, 8, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22, 23, 25, 26]
+Solving time: 4.3 secs
+Answer Yes
+AXp: [4, 13, 19, 25]
+#55-th instance; prediction: True
+tic_tac_toe, 55-th inst file out of 100
+SMT encoding: query on feature 23 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [2, 3, 4, 8, 9, 10, 11, 19, 20, 21, 23, 25]
+Solving time: 69.6 secs
+Answer Yes
+AXp: [2, 3, 4, 10, 19, 20, 23, 25]
+#56-th instance; prediction: False
+tic_tac_toe, 56-th inst file out of 100
+SMT encoding: query on feature 19 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 3, 4, 5, 7, 8, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22, 23, 25]
+Solving time: 3.8 secs
+Answer Yes
+AXp: [1, 10, 13, 19]
+#57-th instance; prediction: True
+tic_tac_toe, 57-th inst file out of 100
+SMT encoding: query on feature 20 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22, 23, 25, 26]
+Solving time: 5.2 secs
+Answer Yes
+AXp: [13, 20, 23, 26]
+#58-th instance; prediction: False
+tic_tac_toe, 58-th inst file out of 100
+SMT encoding: query on feature 22 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.8 secs
+#59-th instance; prediction: True
+tic_tac_toe, 59-th inst file out of 100
+SMT encoding: query on feature 9 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.9 secs
+#60-th instance; prediction: False
+tic_tac_toe, 60-th inst file out of 100
+SMT encoding: query on feature 1 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 16, 17, 19, 20, 21, 23, 26]
+Solving time: 5.5 secs
+Answer Yes
+AXp: [1, 4, 5, 16, 17, 19, 20, 21, 26]
+#61-th instance; prediction: True
+tic_tac_toe, 61-th inst file out of 100
+SMT encoding: query on feature 20 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.5 secs
+#62-th instance; prediction: True
+tic_tac_toe, 62-th inst file out of 100
+SMT encoding: query on feature 25 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 16, 17, 19, 20, 21, 23, 25, 26]
+Solving time: 8.5 secs
+Answer Yes
+AXp: [8, 10, 17, 19, 20, 21, 25, 26]
+#63-th instance; prediction: True
+tic_tac_toe, 63-th inst file out of 100
+SMT encoding: query on feature 2 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22, 23, 25, 26]
+Solving time: 5.1 secs
+Answer Yes
+AXp: [2, 13, 16, 19, 21, 23, 26]
+#64-th instance; prediction: False
+tic_tac_toe, 64-th inst file out of 100
+SMT encoding: query on feature 11 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 301.2 secs
+#65-th instance; prediction: True
+tic_tac_toe, 65-th inst file out of 100
+SMT encoding: query on feature 10 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 5, 8, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22, 23, 25, 26]
+Solving time: 5.1 secs
+Answer Yes
+AXp: [1, 10, 13, 16, 19]
+#66-th instance; prediction: True
+tic_tac_toe, 66-th inst file out of 100
+SMT encoding: query on feature 5 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.2 secs
+#67-th instance; prediction: True
+tic_tac_toe, 67-th inst file out of 100
+SMT encoding: query on feature 7 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 5, 7, 8, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22, 23, 25, 26]
+Solving time: 5.8 secs
+Answer Yes
+AXp: [7, 13, 19]
+#68-th instance; prediction: True
+tic_tac_toe, 68-th inst file out of 100
+SMT encoding: query on feature 3 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.6 secs
+#69-th instance; prediction: True
+tic_tac_toe, 69-th inst file out of 100
+SMT encoding: query on feature 17 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.5 secs
+#70-th instance; prediction: True
+tic_tac_toe, 70-th inst file out of 100
+SMT encoding: query on feature 8 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 299.1 secs
+#71-th instance; prediction: False
+tic_tac_toe, 71-th inst file out of 100
+SMT encoding: query on feature 2 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#72-th instance; prediction: True
+tic_tac_toe, 72-th inst file out of 100
+SMT encoding: query on feature 20 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 17, 19, 20, 21, 22, 23, 25, 26]
+Solving time: 5.5 secs
+Answer Yes
+AXp: [7, 8, 17, 19, 20, 26]
+#73-th instance; prediction: False
+tic_tac_toe, 73-th inst file out of 100
+SMT encoding: query on feature 2 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 16, 17, 19, 22, 23, 25, 26]
+Solving time: 4.0 secs
+Answer Yes
+AXp: [2, 13, 26]
+#74-th instance; prediction: False
+tic_tac_toe, 74-th inst file out of 100
+SMT encoding: query on feature 8 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.6 secs
+#75-th instance; prediction: False
+tic_tac_toe, 75-th inst file out of 100
+SMT encoding: query on feature 5 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#76-th instance; prediction: False
+tic_tac_toe, 76-th inst file out of 100
+SMT encoding: query on feature 17 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.8 secs
+#77-th instance; prediction: True
+tic_tac_toe, 77-th inst file out of 100
+SMT encoding: query on feature 5 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.5 secs
+#78-th instance; prediction: False
+tic_tac_toe, 78-th inst file out of 100
+SMT encoding: query on feature 20 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 301.2 secs
+#79-th instance; prediction: True
+tic_tac_toe, 79-th inst file out of 100
+SMT encoding: query on feature 20 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 16, 19, 20, 21, 22, 23, 25, 26]
+Solving time: 5.1 secs
+Answer Yes
+AXp: [7, 19, 20, 23, 26]
+#80-th instance; prediction: False
+tic_tac_toe, 80-th inst file out of 100
+SMT encoding: query on feature 13 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22, 23, 25, 26]
+Solving time: 3.2 secs
+Answer Yes
+AXp: [2, 13, 26]
+#81-th instance; prediction: True
+tic_tac_toe, 81-th inst file out of 100
+SMT encoding: query on feature 4 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 16, 17, 19, 20, 22, 25, 26]
+Solving time: 4.2 secs
+Answer Yes
+AXp: [2, 4, 7, 10, 17, 19, 26]
+#82-th instance; prediction: True
+tic_tac_toe, 82-th inst file out of 100
+SMT encoding: query on feature 5 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 16, 17, 19, 20, 21, 22, 23, 25]
+Solving time: 8.4 secs
+Answer Yes
+AXp: [2, 5, 7, 8, 16, 19, 20, 21, 23]
+#83-th instance; prediction: False
+tic_tac_toe, 83-th inst file out of 100
+SMT encoding: query on feature 26 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 5, 7, 8, 10, 11, 16, 17, 19, 21, 22, 23, 25, 26]
+Solving time: 3.8 secs
+Answer Yes
+AXp: [2, 7, 16, 19, 25, 26]
+#84-th instance; prediction: False
+tic_tac_toe, 84-th inst file out of 100
+SMT encoding: query on feature 2 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 17, 20, 21, 22, 25, 26]
+Solving time: 3.8 secs
+Answer Yes
+AXp: [2, 13, 26]
+#85-th instance; prediction: False
+tic_tac_toe, 85-th inst file out of 100
+SMT encoding: query on feature 17 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.7 secs
+#86-th instance; prediction: False
+tic_tac_toe, 86-th inst file out of 100
+SMT encoding: query on feature 22 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.6 secs
+#87-th instance; prediction: False
+tic_tac_toe, 87-th inst file out of 100
+SMT encoding: query on feature 8 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 3, 4, 7, 8, 9, 11, 13, 16, 17, 19, 20, 21, 22, 23, 25, 26]
+Solving time: 3.2 secs
+Answer Yes
+AXp: [8, 13, 20, 26]
+#88-th instance; prediction: True
+tic_tac_toe, 88-th inst file out of 100
+SMT encoding: query on feature 4 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 8, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22, 23, 25]
+Solving time: 4.3 secs
+Answer Yes
+AXp: [4, 13, 19, 25]
+#89-th instance; prediction: True
+tic_tac_toe, 89-th inst file out of 100
+SMT encoding: query on feature 10 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 3, 4, 5, 7, 8, 9, 10, 11, 13, 16, 17, 20, 21, 22, 23, 25, 26]
+Solving time: 5.0 secs
+Answer Yes
+AXp: [7, 9, 10, 13, 16, 25]
+#90-th instance; prediction: True
+tic_tac_toe, 90-th inst file out of 100
+SMT encoding: query on feature 26 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.6 secs
+#91-th instance; prediction: True
+tic_tac_toe, 91-th inst file out of 100
+SMT encoding: query on feature 0 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.1 secs
+#92-th instance; prediction: True
+tic_tac_toe, 92-th inst file out of 100
+SMT encoding: query on feature 23 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.9 secs
+#93-th instance; prediction: False
+tic_tac_toe, 93-th inst file out of 100
+SMT encoding: query on feature 0 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.7 secs
+#94-th instance; prediction: True
+tic_tac_toe, 94-th inst file out of 100
+SMT encoding: query on feature 17 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+TIMEOUT(300 secs)
+Solving time: 300.4 secs
+#95-th instance; prediction: True
+tic_tac_toe, 95-th inst file out of 100
+SMT encoding: query on feature 3 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 10, 11, 13, 16, 17, 19, 20, 22, 23, 25, 26]
+Solving time: 4.4 secs
+Answer Yes
+AXp: [3, 7, 10, 13, 16, 25]
+#96-th instance; prediction: True
+tic_tac_toe, 96-th inst file out of 100
+SMT encoding: query on feature 4 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22, 23, 25]
+Solving time: 4.4 secs
+Answer Yes
+AXp: [4, 13, 19, 25]
+#97-th instance; prediction: False
+tic_tac_toe, 97-th inst file out of 100
+SMT encoding: query on feature 20 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 3, 4, 8, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22, 23, 25]
+Solving time: 3.9 secs
+Answer Yes
+AXp: [4, 10, 13, 16, 19, 20, 23]
+#98-th instance; prediction: False
+tic_tac_toe, 98-th inst file out of 100
+SMT encoding: query on feature 21 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 3, 4, 5, 7, 8, 9, 10, 11, 16, 17, 19, 20, 21, 22, 26]
+Solving time: 3.3 secs
+Answer Yes
+AXp: [1, 3, 4, 7, 21, 26]
+#99-th instance; prediction: True
+tic_tac_toe, 99-th inst file out of 100
+SMT encoding: query on feature 3 out of 27 features:
+(two-step) Feature Membership of d-DNNF into SMT formulas ...
+Start solving ...
+weak AXp: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22, 25, 26]
+Solving time: 4.7 secs
+Answer Yes
+AXp: [2, 3, 4, 7, 8, 13, 17, 19, 26]
+tic_tac_toe & 100 & 21 & 179 & 55(45) & 385 & 394 & 13901.5 & 301.4 & 3.2 & 139.0
+
