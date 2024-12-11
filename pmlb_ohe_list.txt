@@ -1,0 +1,16 @@
+adult
+chess
+compas
+german
+lending
+Mammographic-mass
+monk1
+monk2
+parity5+5
+primary-tumor
+promoters
+recidivism
+spect
+threeOf9
+tic_tac_toe
+xd6
