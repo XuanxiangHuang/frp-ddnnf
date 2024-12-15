@@ -1,4 +1,3 @@
-adult
 chess
 compas
 german
@@ -8,7 +7,6 @@ monk1
 monk2
 parity5+5
 primary-tumor
-promoters
 recidivism
 spect
 threeOf9
