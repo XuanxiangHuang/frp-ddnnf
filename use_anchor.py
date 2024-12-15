@@ -11,7 +11,6 @@ import sys, csv
 import pandas as pd
 import numpy as np
 from anchor import anchor_tabular
-import resource
 from math import ceil
 from xddnnf.xpddnnf import XpdDnnf
 
@@ -52,9 +51,6 @@ if __name__ == '__main__':
 
             ##########
             answer_yes = 0
-            atoms_n = []
-            fmls_n = []
-            calls_n = []
             T_time = []
             seeds = []
 
@@ -99,7 +95,7 @@ if __name__ == '__main__':
 
                 exp = explainer.explain_instance(np.asarray([inst], dtype=np.int32),
                                                  fm_exp.predict,
-                                                 beam_size=20, threshold=0.95)
+                                                 beam_size=10, threshold=0.95)
 
                 feature_indices = exp.features()
                 print("Indices of features in explanation:", feature_indices)
@@ -129,3 +125,5 @@ if __name__ == '__main__':
 
             with open('results/anchor/ddnnf_anchor.txt', 'a') as f:
                 f.write(exp_results)
+            runtime_df_defo = pd.DataFrame(T_time, columns=["runtime"])
+            runtime_df_defo.to_csv(f"results/anchor/{name}_runtime.csv", index=False)
