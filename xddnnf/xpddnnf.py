@@ -5,6 +5,8 @@
 #   Author: Xuanxiang Huang
 #
 ################################################################################
+import numpy as np
+import pandas as pd
 import resource
 import networkx as nx
 from pysat.formula import IDPool
@@ -191,7 +193,7 @@ class XpdDnnf(object):
                         assign.update({nd: 0})
 
         assert assign[self.root] == 1 or assign[self.root] == 0
-        return assign[self.root] == 1
+        return assign[self.root]
 
     def check_ICoVa(self, univ, va=True):
         """
@@ -451,9 +453,10 @@ class XpdDnnf(object):
         time = resource.getrusage(resource.RUSAGE_CHILDREN).ru_utime + \
                resource.getrusage(resource.RUSAGE_SELF).ru_utime - time
 
-        print('#AXp:', num_axps)
-        print('#CXp:', num_cxps)
-        print("Runtime: {0:.3f}".format(time))
+        if self.verbose == 1:
+            print('#AXp:', num_axps)
+            print('#CXp:', num_cxps)
+            print("Runtime: {0:.3f}".format(time))
 
         return axps, cxps
 
@@ -514,3 +517,184 @@ class XpdDnnf(object):
                     print(f'given cxp {cxp} is not subset-minimal')
                     return False
         return True
+
+    def is_decomposable(self):
+        """
+            Check if d-DNNF is decomposable
+
+            :return: True if decomposable
+        """
+        ddnnf = self.ddnnf
+        scope = dict()
+        for leaf in self.leafs:
+            if ddnnf.nodes[leaf]['label'] == 'F':
+                scope.update({leaf: frozenset()})
+            elif ddnnf.nodes[leaf]['label'] == 'T':
+                scope.update({leaf: frozenset()})
+            else:
+                lit = ddnnf.nodes[leaf]['label']
+                scope.update({leaf: frozenset({abs(lit)})})
+
+        for nd in self.dfs_postorder(self.root):
+            if ddnnf.nodes[nd]['label'] == 'AND' \
+                    or ddnnf.nodes[nd]['label'] == 'OR':
+                chd_var = [scope.get(chd) for chd in ddnnf.successors(nd)]
+                if ddnnf.nodes[nd]['label'] == 'AND':
+                    for i in range(len(chd_var)):
+                        for j in range(i + 1, len(chd_var)):
+                            if not chd_var[i].isdisjoint(chd_var[j]):
+                                return False
+                tmp = frozenset()
+                for ele in chd_var:
+                    tmp = tmp.union(ele)
+                scope.update({nd: tmp})
+        return True
+
+    def is_smooth(self):
+        """
+            Check if d-DNNF is smooth
+
+            :return: True if smooth
+        """
+        ddnnf = self.ddnnf
+        scope = dict()
+        for leaf in self.leafs:
+            if ddnnf.nodes[leaf]['label'] == 'F':
+                scope.update({leaf: frozenset()})
+            elif ddnnf.nodes[leaf]['label'] == 'T':
+                scope.update({leaf: frozenset()})
+            else:
+                lit = ddnnf.nodes[leaf]['label']
+                scope.update({leaf: frozenset({abs(lit)})})
+
+        for nd in self.dfs_postorder(self.root):
+            if ddnnf.nodes[nd]['label'] == 'AND' \
+                    or ddnnf.nodes[nd]['label'] == 'OR':
+                chd_var = [scope.get(chd) for chd in ddnnf.successors(nd)]
+                if ddnnf.nodes[nd]['label'] == 'OR':
+                    for i in range(len(chd_var)):
+                        for j in range(i + 1, len(chd_var)):
+                            if chd_var[i] != chd_var[j]:
+                                return False
+                tmp = frozenset()
+                for ele in chd_var:
+                    tmp = tmp.union(ele)
+                scope.update({nd: tmp})
+        return True
+
+    def vars_of_gates(self):
+        """
+            Collect vars for each gate.
+
+            :return:
+        """
+        ddnnf = self.ddnnf
+        scope = dict()
+        for leaf in self.leafs:
+            if ddnnf.nodes[leaf]['label'] == 'F':
+                scope.update({leaf: frozenset()})
+            elif ddnnf.nodes[leaf]['label'] == 'T':
+                scope.update({leaf: frozenset()})
+            else:
+                lit = ddnnf.nodes[leaf]['label']
+                scope.update({leaf: frozenset({abs(lit)})})
+
+        for nd in self.dfs_postorder(self.root):
+            if ddnnf.nodes[nd]['label'] == 'AND' \
+                    or ddnnf.nodes[nd]['label'] == 'OR':
+                chd_var = [scope.get(chd) for chd in ddnnf.successors(nd)]
+                tmp = frozenset()
+                for ele in chd_var:
+                    tmp = tmp.union(ele)
+                scope.update({nd: tmp})
+        return scope
+
+    def predict(self, instances):
+        """
+            Return a list of prediction given a list of instances.
+            :param instances: a list of (total) instance.
+            :return: predictions of these instances
+        """
+        insts = instances
+        if type(instances) == pd.DataFrame:
+            insts = instances.to_numpy()
+        predictions = []
+        for inst in insts:
+            self.parse_instance([int(e) for e in list(inst)])
+            predictions.append(self.get_prediction())
+        return np.array(predictions)
+
+    def predict_prob(self, instances):
+        """
+            Return a list of probabilities given a list of instances.
+            since we only have two classes, we only return the probability of
+            class 0 and class 1.
+            :param instances: a list of (total) instance.
+            :return: predictions of these instances
+        """
+        insts = instances
+        if type(instances) == pd.DataFrame:
+            insts = instances.to_numpy()
+        predictions = []
+        for inst in insts:
+            self.parse_instance([int(e) for e in list(inst)])
+            if self.get_prediction() == 0:
+                # class 0 has probability 1.0, class 1 has probability 0.0
+                predictions.append([1.0, 0.0])
+            else:
+                predictions.append([0.0, 1.0])
+        return np.array(predictions)
+
+    def model_counting(self, univ):
+        """
+            Given a list of universal features, return the number of models.
+
+            :param univ: a list of universal features.
+            :return: number of models
+        """
+        ddnnf = self.ddnnf
+        assign = dict()
+        n_univ_var = 0
+
+        for leaf in self.leafs:
+            if ddnnf.nodes[leaf]['label'] == 'F':
+                assign.update({leaf: 0})
+            elif ddnnf.nodes[leaf]['label'] == 'T':
+                assign.update({leaf: 1})
+
+        for i in range(self.nf):
+            lit = self.lits[i]
+            if univ[i]:
+                for ele in lit:
+                    if ele in self.lit2leaf or -ele in self.lit2leaf:
+                        n_univ_var += 1
+            else:
+                for ele in lit:
+                    if ele in self.lit2leaf:
+                        assign.update({self.lit2leaf[ele]: 1})
+                    if -ele in self.lit2leaf:
+                        assign.update({self.lit2leaf[-ele]: 0})
+
+        for leaf in self.leafs:
+            if leaf not in assign:
+                assign.update({leaf: 1})
+
+        assert len(assign) == len(self.leafs)
+
+        for nd in self.dfs_postorder(self.root):
+            if ddnnf.nodes[nd]['label'] == 'AND' \
+                    or ddnnf.nodes[nd]['label'] == 'OR':
+                if ddnnf.nodes[nd]['label'] == 'AND':
+                    num = 1
+                    for chd in ddnnf.successors(nd):
+                        num *= assign[chd]
+                    assign.update({nd: num})
+                else:
+                    num = 0
+                    for chd in ddnnf.successors(nd):
+                        num += assign[chd]
+                    assign.update({nd: num})
+
+        n_model = assign[self.root]
+        assert n_univ_var >= 0
+        return n_model
