@@ -19,44 +19,6 @@ np.random.seed(73)
 ################################################################################
 
 
-def anchor_call(model, inst, class_names, feature_names, train_data,
-                encoder_fn=None, threshold=0.95, verbose=0):
-    classifier_fn = lambda x: pd.Series(model.predict_all(list(x)))
-
-    timer = resource.getrusage(resource.RUSAGE_CHILDREN).ru_utime + \
-            resource.getrusage(resource.RUSAGE_SELF).ru_utime
-
-    explainer = anchor_tabular.AnchorTabularExplainer(
-        class_names=class_names,
-        feature_names=feature_names,
-        train_data=train_data)
-
-    feat_sample = np.asarray(inst, dtype=np.float32)
-
-    exp = explainer.explain_instance(feat_sample,
-                                     classifier_fn,
-                                     threshold=threshold)
-    if verbose:
-        print('Anchor: %s' % (' AND '.join(exp.names())))
-        print('Precision: %.2f' % exp.precision())
-        print('Coverage: %.2f' % exp.coverage())
-
-    timer = resource.getrusage(resource.RUSAGE_CHILDREN).ru_utime + \
-            resource.getrusage(resource.RUSAGE_SELF).ru_utime - timer
-    if verbose:
-        print('  time: {0:.2f}'.format(timer))
-
-    expl_set = set(exp.features())
-    print(exp.features())
-    print(expl_set)
-    print(exp.names())
-    # assert len(exp.names()) == len(expl_set)
-
-    # length seems incorrect
-    return len(expl_set), timer
-
-
-################################################################################
 if __name__ == '__main__':
     args = sys.argv[1:]
     if len(args) >= 1 and args[0] == '-bench':
@@ -137,7 +99,7 @@ if __name__ == '__main__':
 
                 exp = explainer.explain_instance(np.asarray([inst], dtype=np.int32),
                                                  fm_exp.predict,
-                                                 beam_size=20, threshold=0.99)
+                                                 beam_size=20, threshold=0.95)
 
                 feature_indices = exp.features()
                 print("Indices of features in explanation:", feature_indices)
