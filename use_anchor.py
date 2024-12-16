@@ -125,7 +125,7 @@ if __name__ == '__main__':
                     print('======== Answer Yes ========')
                     answer_yes += 1
                 else:
-                    print('======== Answer No ========')
+                    print('******** Answer No ********')
 
                 T_time.append(time_solving_end)
 
