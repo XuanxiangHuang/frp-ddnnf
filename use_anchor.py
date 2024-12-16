@@ -57,7 +57,7 @@ if __name__ == '__main__':
             feat_map = f"examples_ohe/{name}/{name}.map"
 
             ##########
-            answer_yes = 0
+            answers = []
             T_time = []
             seeds = []
 
@@ -123,14 +123,14 @@ if __name__ == '__main__':
 
                 if f_id in feature_indices:
                     print('======== Answer Yes ========')
-                    answer_yes += 1
+                    answers.append(1)
                 else:
                     print('******** Answer No ********')
+                    answers.append(0)
 
                 T_time.append(time_solving_end)
 
             exp_results = f"{name} & {d_len} & "
-            exp_results += f"{ceil(answer_yes / d_len * 100):.0f} & "
             exp_results += "{0:.1f} & {1:.1f} & {2:.1f} & {3:.1f}\n" \
                 .format(sum(T_time), max(T_time), min(T_time), sum(T_time) / d_len)
 
@@ -138,5 +138,11 @@ if __name__ == '__main__':
 
             with open('results/anchor/ddnnf_anchor.txt', 'a') as f:
                 f.write(exp_results)
-            runtime_df_defo = pd.DataFrame(T_time, columns=["runtime"])
-            runtime_df_defo.to_csv(f"results/anchor/{name}_runtime.csv", index=False)
+
+            results_df = pd.DataFrame({
+                "answer": answers,
+                "runtime": T_time
+            })
+
+            # Save the DataFrame to a CSV file
+            results_df.to_csv(f"results/anchor/{name}_results.csv", index=False)
