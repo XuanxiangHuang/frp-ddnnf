@@ -13,9 +13,16 @@ import numpy as np
 from anchor import anchor_tabular
 from math import ceil
 from xddnnf.xpddnnf import XpdDnnf
+from concurrent.futures import ThreadPoolExecutor, TimeoutError
 
 np.random.seed(73)
+
+
 ################################################################################
+
+# Function to wrap the explain_instance method
+def run_explainer(explainer_, dpt, fm_explainer):
+    return explainer_.explain_instance(np.asarray([dpt], dtype=np.int32), fm_explainer.predict, threshold=0.95)
 
 
 if __name__ == '__main__':
@@ -79,6 +86,7 @@ if __name__ == '__main__':
             explainer = anchor_tabular.AnchorTabularExplainer(class_names=[0, 1],
                                                               feature_names=features,
                                                               train_data=X)
+            timeout_seconds = 300
 
             for idx, line in enumerate(lines[:d_len]):
                 inst = [int(ii) for ii in list(line)]
@@ -93,20 +101,25 @@ if __name__ == '__main__':
 
                 time_solving_start = time.process_time()
 
-                exp = explainer.explain_instance(np.asarray([inst], dtype=np.int32),
-                                                 fm_exp.predict,
-                                                 beam_size=10, threshold=0.95)
+                # Use ThreadPoolExecutor for timeout handling
+                with ThreadPoolExecutor(max_workers=1) as executor:
+                    future = executor.submit(run_explainer, explainer, inst, fm_exp)
+                    try:
+                        exp = future.result(timeout=timeout_seconds)  # Wait for the result with timeout
 
-                feature_indices = exp.features()
-                print("Indices of features in explanation:", feature_indices)
+                        # Process the result if it completes
+                        feature_indices = exp.features()
+                        print("Indices of features in explanation:", feature_indices)
 
-                print('Anchor: %s' % (' AND '.join(exp.names())))
-                print('Precision: %.2f' % exp.precision())
-                print('Coverage: %.2f' % exp.coverage())
+                        print('Anchor: %s' % (' AND '.join(exp.names())))
+                        print('Precision: %.2f' % exp.precision())
+                        print('Coverage: %.2f' % exp.coverage())
+
+                    except TimeoutError:
+                        print("The operation timed out.")
 
                 time_solving_end = time.process_time() - time_solving_start
-
-                print('  time: {0:.2f}'.format(time_solving_end))
+                print(f"Time taken: {time_solving_end} seconds")
 
                 if f_id in feature_indices:
                     print('======== Answer Yes ========')
