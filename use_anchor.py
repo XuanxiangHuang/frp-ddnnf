@@ -101,6 +101,8 @@ if __name__ == '__main__':
 
                 time_solving_start = time.process_time()
 
+                feature_indices = []
+
                 # Use ThreadPoolExecutor for timeout handling
                 with ThreadPoolExecutor(max_workers=1) as executor:
                     future = executor.submit(run_explainer, explainer, inst, fm_exp)
