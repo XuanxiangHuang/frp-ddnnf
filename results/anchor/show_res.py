@@ -10,7 +10,7 @@ ds_file = [
     'monk2',
     'parity5+5',
     'primary-tumor',
-    # 'recidivism',
+    'recidivism',
     'spect',
     'threeOf9',
     'tic_tac_toe',
