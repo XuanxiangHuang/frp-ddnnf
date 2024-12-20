@@ -119,9 +119,10 @@ if __name__ == '__main__':
 
                     except TimeoutError:
                         print("The operation timed out.")
-
-                time_solving_end = time.process_time() - time_solving_start
-                print(f"Time taken: {time_solving_end} seconds")
+                        
+                time_solving_end = time.process_time()
+                time_taken = time_solving_end - time_solving_start
+                print(f"Time taken: {time_taken} seconds")
 
                 if f_id in feature_indices:
                     print('======== Answer Yes ========')
