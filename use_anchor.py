@@ -131,7 +131,7 @@ if __name__ == '__main__':
                     print('******** Answer No ********')
                     answers.append(0)
 
-                T_time.append(time_solving_end)
+                T_time.append(time_taken)
 
             exp_results = f"{name} & {d_len} & "
             exp_results += "{0:.1f} & {1:.1f} & {2:.1f} & {3:.1f}\n" \
